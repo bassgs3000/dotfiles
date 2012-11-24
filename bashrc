@@ -2,7 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
-SHELL=/bin/zsh
+#SHELL=/bin/zsh
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
 
@@ -109,3 +109,4 @@ if [ -f /etc/bash_completion ] && ! shopt -oq posix; then
 fi
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+source ~/.rvm/scripts/rvm
