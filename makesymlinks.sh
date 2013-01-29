@@ -9,6 +9,7 @@
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
 files="vimrc vim Xdefaults xsession bashrc zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
+landscapes="Landscapes"
 
 ##########
 
@@ -29,6 +30,10 @@ for file in $files; do
     echo "Creating symlink to $file in home directory."
     ln -s $dir/$file ~/.$file
 done
+
+echo "Making Landscapes Dir"
+ln -s $dir/$landscapes ~/Pictures/
+
 
 function install_zsh {
 # Test to see if zshell is installed.  If it is:
