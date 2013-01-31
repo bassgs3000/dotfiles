@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Wombat.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
