@@ -1,0 +1,905 @@
+{
+	"folder_history":
+	[
+		"/home/edwin/Rails/lunch",
+		"/home/edwin/Rails/Roleplay",
+		"/home/edwin/RailsApp/lunch"
+	],
+	"last_window_id": 13,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"rest",
+						"restaurant"
+					],
+					[
+						"no",
+						"no_content"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":Q",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Git: Quick Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						":$",
+						":$ - EOF"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/edwin/Rails/lunch/app/views/entries/_form.html.erb",
+				"/home/edwin/Rails/lunch/app/views/entries/edit.html.erb",
+				"/home/edwin/Rails/lunch/app/controllers/entries_controller.rb",
+				"/home/edwin/Rails/Roleplay/README.rdoc",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/new.html.erb",
+				"/home/edwin/Rails/Roleplay/app/models/character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/_form.html.erb",
+				"/home/edwin/Rails/Roleplay/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Roleplay/Gemfile",
+				"/home/edwin/Rails/Roleplay/config/routes.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/show.html.erb",
+				"/home/edwin/Rails/lunch/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108054025_remove_nickname_from_character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108054318_remove_nickname_from_character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/index.html.erb",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108045639_create_character_sheets.rb",
+				"/home/edwin/Rails/lunch/config/routes.rb",
+				"/home/edwin/Rails/lunch/app/views/entries/restaurants.html.erb",
+				"/home/edwin/Rails/lunch/Gemfile",
+				"/home/edwin/Rails/tester/app/views/tests/_form.html.erb",
+				"/home/edwin/Rails/lunch/app/views/entries/new.html.erb",
+				"/home/edwin/Rails/lunch/app/assets/stylesheets/application.css",
+				"/home/edwin/Rails/lunch/app/views/layouts/application.html.erb",
+				"/home/edwin/Rails/lunch/config/initializers/formtastic.rb",
+				"/home/edwin/Rails/lunch/app/views/entries/index.html.erb",
+				"/home/edwin/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/edwin/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/edwin/Rails/lunch/db/migrate/20130107234659_rename_restaurant_to_name_in_restaurants.rb",
+				"/home/edwin/list.txt",
+				"/home/edwin/list",
+				"/home/edwin/.bashrc",
+				"/home/edwin/test.txt",
+				"/home/edwin/RailsApp/lunch/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/RailsApp/lunch/config/routes.rb",
+				"/home/edwin/RailsApp/lunch/app/controllers/entries_controller.rb",
+				"/home/edwin/RailsApp/lunch/app/helpers/entries_helper.rb",
+				"/home/edwin/RailsApp/lunch/app/views/entries/yelp.html.erb",
+				"/home/edwin/RailsApp/lunch/Gemfile",
+				"/home/edwin/RailsApp/lunch/app/views/entries/._form.html.erb.swp",
+				"/home/edwin/RailsApp/lunch/db/schema.rb",
+				"/home/edwin/RailsApp/lunch/.brainstorm.swp",
+				"/home/edwin/RailsApp/lunch/app/views/entries/index.html.erb",
+				"/home/edwin/RailsApp/lunch/config/application.rb",
+				"/home/edwin/RailsApp/lunch/app/models/user.rb",
+				"/home/edwin/RailsApp/lunch/app/models/entry.rb",
+				"/home/edwin/yelp.rb",
+				"/home/edwin/RailsApp/lunch/README.rdoc",
+				"/usr/share/applications/sublime.desktop"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					".date-field{\n	width:50px;\n}",
+					"white",
+					"-",
+					"five",
+					"-Childersburg",
+					"-Leeds",
+					"-Warrior",
+					"-UAB",
+					"-Montevallo",
+					"-Chelsea",
+					"-Greystone-Center",
+					"-Colonnade",
+					"-Vestavia-Hills",
+					"-Hueytown",
+					"-Moody",
+					"-Brookwood-Vlg",
+					"-Chace-Lake",
+					"-Cahaba-Heights",
+					"-Helena",
+					"-Mc-Calla",
+					"-Calera",
+					"-Pelham",
+					"-Irondale",
+					"-Mountain-Brook",
+					"-Fultondale",
+					"-Trussville",
+					"-Homewood",
+					"-Hoover",
+					"-Bessemer",
+					"-Birmingham",
+					"-Alabaster",
+					"\"",
+					"%>",
+					"<% ",
+					"TOKEN",
+					"TOKEN_SECRET",
+					"SECRET",
+					"CONSUMER_KEY"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_",
+					" ",
+					"",
+					"token_secret"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 114.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"entry",
+						"app/models/entry.rb"
+					],
+					[
+						"_form",
+						"app/views/entries/_form.html.erb"
+					],
+					[
+						"edit",
+						"app/views/entries/edit.html.erb"
+					],
+					[
+						"cont",
+						"app/controllers/entries_controller.rb"
+					],
+					[
+						"new",
+						"app/views/character_sheets/new.html.erb"
+					],
+					[
+						"show",
+						"app/views/character_sheets/show.html.erb"
+					],
+					[
+						"chara",
+						"app/models/character_sheet.rb"
+					],
+					[
+						"inde",
+						"app/views/character_sheets/index.html.erb"
+					],
+					[
+						"remove",
+						"db/migrate/20130108054318_remove_nickname_from_character_sheet.rb"
+					],
+					[
+						"remo",
+						"db/migrate/20130108054025_remove_nickname_from_character_sheet.rb"
+					],
+					[
+						"form",
+						"app/views/character_sheets/_form.html.erb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"migra",
+						"db/migrate/20130108045639_create_character_sheets.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"formtas",
+						"config/initializers/formtastic.rb"
+					],
+					[
+						"apll",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"appli",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"appl",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"vi",
+						"app/views/entries/index.html.erb"
+					],
+					[
+						"entries",
+						"app/controllers/entries_controller.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"ent",
+						"app/models/entry.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 325.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ra",
+						"restaurants"
+					],
+					[
+						"rest",
+						"restaurant"
+					],
+					[
+						"no",
+						"no_content"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/usr/share/applications/sublime.desktop",
+					"settings":
+					{
+						"buffer_size": 473,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						":Q",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Git: Quick Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						":$",
+						":$ - EOF"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/usr/share/applications/defaults.list",
+				"/home/edwin/Rails/lunch/app/models/entry.rb",
+				"/home/edwin/Rails/lunch/app/models/user.rb",
+				"/home/edwin/Rails/lunch/db/migrate/20130108221300_add_name_to_user.rb",
+				"/home/edwin/Rails/lunch/db/migrate/20130126205758_drop_entries.rb",
+				"/home/edwin/Rails/lunch/db/migrate/20130126205845_drop_entries_table.rb",
+				"/home/edwin/.ssh/config",
+				"/home/edwin/Rails/lunch/spec/models/user_spec.rb",
+				"/home/edwin/Rails/lunch/spec/models/entry_spec.rb",
+				"/home/edwin/Rails/lunch/app/views/entries/_form.html.erb",
+				"/home/edwin/Rails/lunch/app/views/entries/edit.html.erb",
+				"/home/edwin/Rails/lunch/app/controllers/entries_controller.rb",
+				"/home/edwin/Rails/Roleplay/README.rdoc",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/new.html.erb",
+				"/home/edwin/Rails/Roleplay/app/models/character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/_form.html.erb",
+				"/home/edwin/Rails/Roleplay/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Roleplay/Gemfile",
+				"/home/edwin/Rails/Roleplay/config/routes.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/show.html.erb",
+				"/home/edwin/Rails/lunch/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108054025_remove_nickname_from_character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108054318_remove_nickname_from_character_sheet.rb",
+				"/home/edwin/Rails/Roleplay/app/views/character_sheets/index.html.erb",
+				"/home/edwin/Rails/Roleplay/db/migrate/20130108045639_create_character_sheets.rb",
+				"/home/edwin/Rails/lunch/config/routes.rb",
+				"/home/edwin/Rails/lunch/app/views/entries/restaurants.html.erb",
+				"/home/edwin/Rails/lunch/Gemfile",
+				"/home/edwin/Rails/tester/app/views/tests/_form.html.erb",
+				"/home/edwin/Rails/lunch/app/views/entries/new.html.erb",
+				"/home/edwin/Rails/lunch/app/assets/stylesheets/application.css",
+				"/home/edwin/Rails/lunch/app/views/layouts/application.html.erb",
+				"/home/edwin/Rails/lunch/config/initializers/formtastic.rb",
+				"/home/edwin/Rails/lunch/app/views/entries/index.html.erb",
+				"/home/edwin/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/edwin/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/edwin/Rails/lunch/db/migrate/20130107234659_rename_restaurant_to_name_in_restaurants.rb",
+				"/home/edwin/list.txt",
+				"/home/edwin/list",
+				"/home/edwin/.bashrc",
+				"/home/edwin/test.txt",
+				"/home/edwin/RailsApp/lunch/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/RailsApp/lunch/config/routes.rb",
+				"/home/edwin/RailsApp/lunch/app/controllers/entries_controller.rb",
+				"/home/edwin/RailsApp/lunch/app/helpers/entries_helper.rb",
+				"/home/edwin/RailsApp/lunch/app/views/entries/yelp.html.erb",
+				"/home/edwin/RailsApp/lunch/Gemfile",
+				"/home/edwin/RailsApp/lunch/app/views/entries/._form.html.erb.swp",
+				"/home/edwin/RailsApp/lunch/db/schema.rb",
+				"/home/edwin/RailsApp/lunch/.brainstorm.swp",
+				"/home/edwin/RailsApp/lunch/app/views/entries/index.html.erb",
+				"/home/edwin/RailsApp/lunch/config/application.rb",
+				"/home/edwin/RailsApp/lunch/app/models/user.rb",
+				"/home/edwin/RailsApp/lunch/app/models/entry.rb",
+				"/home/edwin/yelp.rb",
+				"/home/edwin/RailsApp/lunch/README.rdoc",
+				"/usr/share/applications/sublime.desktop"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"like_foo.save",
+					" <<",
+					"should",
+					"respond_to",
+					".date-field{\n	width:50px;\n}",
+					"white",
+					"-",
+					"five",
+					"-Childersburg",
+					"-Leeds",
+					"-Warrior",
+					"-UAB",
+					"-Montevallo",
+					"-Chelsea",
+					"-Greystone-Center",
+					"-Colonnade",
+					"-Vestavia-Hills",
+					"-Hueytown",
+					"-Moody",
+					"-Brookwood-Vlg",
+					"-Chace-Lake",
+					"-Cahaba-Heights",
+					"-Helena",
+					"-Mc-Calla",
+					"-Calera",
+					"-Pelham",
+					"-Irondale",
+					"-Mountain-Brook",
+					"-Fultondale",
+					"-Trussville",
+					"-Homewood",
+					"-Hoover",
+					"-Bessemer",
+					"-Birmingham",
+					"-Alabaster",
+					"\"",
+					"%>",
+					"<% ",
+					"TOKEN",
+					"TOKEN_SECRET",
+					"SECRET",
+					"CONSUMER_KEY"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_",
+					" ",
+					"",
+					"token_secret"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/edwin/Rails/lunch"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/usr/share/applications/sublime.desktop",
+							"settings":
+							{
+								"buffer_size": 473,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										472,
+										472
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 114.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,3046,1050",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"drop",
+						"db/migrate/20130126205845_drop_entries_table.rb"
+					],
+					[
+						"migra",
+						"db/migrate/20130108221300_add_name_to_user.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"entry",
+						"app/models/entry.rb"
+					],
+					[
+						"_form",
+						"app/views/entries/_form.html.erb"
+					],
+					[
+						"edit",
+						"app/views/entries/edit.html.erb"
+					],
+					[
+						"cont",
+						"app/controllers/entries_controller.rb"
+					],
+					[
+						"new",
+						"app/views/character_sheets/new.html.erb"
+					],
+					[
+						"show",
+						"app/views/character_sheets/show.html.erb"
+					],
+					[
+						"chara",
+						"app/models/character_sheet.rb"
+					],
+					[
+						"inde",
+						"app/views/character_sheets/index.html.erb"
+					],
+					[
+						"remove",
+						"db/migrate/20130108054318_remove_nickname_from_character_sheet.rb"
+					],
+					[
+						"remo",
+						"db/migrate/20130108054025_remove_nickname_from_character_sheet.rb"
+					],
+					[
+						"form",
+						"app/views/character_sheets/_form.html.erb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"formtas",
+						"config/initializers/formtastic.rb"
+					],
+					[
+						"apll",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"appli",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"appl",
+						"app/assets/stylesheets/application.css"
+					],
+					[
+						"vi",
+						"app/views/entries/index.html.erb"
+					],
+					[
+						"entries",
+						"app/controllers/entries_controller.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"ent",
+						"app/models/entry.rb"
+					],
+					[
+						"gemfi",
+						"Gemfile"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 126.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

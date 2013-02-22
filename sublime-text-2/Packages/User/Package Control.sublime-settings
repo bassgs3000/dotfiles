@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CTags",
+		"DetectSyntax",
+		"Git",
+		"Package Control",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
+	]
+}

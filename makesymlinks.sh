@@ -8,8 +8,10 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="vimrc vim Xdefaults xsession bashrc zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
+files="vimrc vim bashrc zshrc oh-my-zsh"    # list of files/folders to symlink in homedir
+# Xdefaults xsession add these to files if you don't have a KDE setup.
 landscapes="Landscapes"
+sublime="sublime-text-2"
 
 ##########
 
@@ -33,6 +35,9 @@ done
 
 echo "Making Landscapes Dir"
 ln -s $dir/$landscapes ~/Pictures/
+
+echo "Making sublime config files"
+ln -s $dir/$sublime ~/.config/
 
 
 function install_zsh {
