@@ -32,4 +32,3 @@ ZSH_THEME="robbyrussell"
 plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
-source /home/edwin/.rvm/scripts/rvm
