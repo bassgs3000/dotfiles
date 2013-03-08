@@ -29,6 +29,10 @@ ZSH_THEME="robbyrussell"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git)
+plugins=(git git-extras bundler rbenv)
+
+alias rr="rbenv rehash"
 
 source $ZSH/oh-my-zsh.sh
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
