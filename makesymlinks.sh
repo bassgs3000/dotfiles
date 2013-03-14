@@ -12,6 +12,7 @@ files="vimrc vim bashrc zshrc oh-my-zsh"    # list of files/folders to symlink i
 # Xdefaults xsession add these to files if you don't have a KDE setup.
 landscapes="Landscapes"
 sublime="sublime-text-2"
+customtheme="zero-gallois.zsh-theme"
 
 ##########
 
@@ -38,6 +39,9 @@ ln -s $dir/$landscapes ~/Pictures/
 
 echo "Making sublime config files"
 ln -s $dir/$sublime ~/.config/
+
+echo "Symlinking Theme"
+ln -s $dir/$customtheme $dir/oh-my-zsh-themes/$customtheme
 
 
 function install_zsh {
