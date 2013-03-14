@@ -13,7 +13,7 @@ git_custom_status() {
 
 #RVM and git settings
 if [[ -s ~/.rbenv/bin/rbenv ]] ; then
-  RPS1='$(git_custom_status)%{$fg[red]%}[`cat ~/.rbenv/version`]%{$reset_color%} $EPS1'
+  RPS1='$(git_custom_status)%{$fg[red]%}[`rbenv version | cut -f 1 -d " "`]%{$reset_color%} $EPS1'
 fi
 
-PROMPT='%{$fg_bold[red]%}[%~% ]%(?.%{$fg_bold[cyan]%}.%{$fg[red]%})%B$%b '
+PROMPT='%{$fg_bold[red]%}%B[%b%~% %{$fg_bold[red]%}%B]%b%(?.%{$fg_bold[cyan]%}.%{$fg[red]%})%B$%b '
