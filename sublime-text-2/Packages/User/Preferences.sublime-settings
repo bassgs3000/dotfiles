@@ -1,13 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Wombat.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Railscasts.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
 	],
 	"soda_classic_tabs": true,
-	"useTabStops":true,
-	"translateTabsToSpaces": true,
 	"tabSize": 2,
 	"theme": "Soda Dark.sublime-theme",
+	"translateTabsToSpaces": true,
+	"useTabStops": true,
 	"vintage_start_in_command_mode": true
 }
