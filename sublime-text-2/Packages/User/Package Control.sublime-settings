@@ -2,11 +2,13 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Base16 Color Schemes",
 		"CoffeeScript",
 		"CTags",
 		"DetectSyntax",
 		"Git",
 		"Package Control",
+		"RSpec",
 		"Ruby on Rails snippets",
 		"SCSS",
 		"SublimeCodeIntel",

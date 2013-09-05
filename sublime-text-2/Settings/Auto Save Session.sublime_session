@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/home/edwin/Documents/Scripts/ZDice",
+		"/home/edwin/Documents/Scripts/Directory",
+		"/home/edwin/Rails/trainingsite",
 		"/home/edwin/Scripts/Finance",
 		"/home/edwin/Scripts/Rename",
 		"/home/edwin/Scripts/Encryption",
@@ -28,7 +31,7 @@
 		"/home/edwin/Rails/Roleplay",
 		"/home/edwin/RailsApp/lunch"
 	],
-	"last_window_id": 47,
+	"last_window_id": 51,
 	"settings":
 	{
 		"new_window_height": 0.0,
@@ -38,6 +41,90 @@
 			{
 				"selected_items":
 				[
+					[
+						"each",
+						"each_slice"
+					],
+					[
+						"max",
+						"max_columns"
+					],
+					[
+						"count",
+						"count_exts"
+					],
+					[
+						"ext",
+						"extlist"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"log",
+						"logo_url"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"accepted",
+						"accepted_types"
+					],
+					[
+						"displa",
+						"display_name"
+					],
+					[
+						"par",
+						"parameters"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"acc",
+						"accepted_types"
+					],
+					[
+						"dis",
+						"display_name"
+					],
+					[
+						"user",
+						"user_password"
+					],
+					[
+						"exte",
+						"extensionshash"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"gree",
+						"greeter"
+					],
 					[
 						"sr",
 						"src_port"
@@ -49,10 +136,6 @@
 					[
 						"lin",
 						"linehash"
-					],
-					[
-						"log",
-						"loghash"
 					],
 					[
 						"split",
@@ -109,10 +192,6 @@
 					[
 						"border-s",
 						"border-style"
-					],
-					[
-						"border",
-						"border-radius"
 					],
 					[
 						"ar",
@@ -199,6 +278,18 @@
 						":w - Save"
 					],
 					[
+						":W",
+						":w - Save"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						":x",
+						"Snippet: xhr delete"
+					],
+					[
 						"java",
 						"Set Syntax: JavaScript"
 					],
@@ -209,10 +300,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						":x",
-						"Snippet: xhr delete"
 					],
 					[
 						":",
@@ -295,7 +382,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 516.0
+				"width": 588.0
 			},
 			"console":
 			{
@@ -312,6 +399,29 @@
 			},
 			"file_history":
 			[
+				"/home/edwin/Documents/Scripts/Directory/testcolumn.rb",
+				"/home/edwin/Documents/Scripts/Directory/Gemfile",
+				"/home/edwin/Documents/Scripts/Directory/.gitignore",
+				"/home/edwin/Documents/Scripts/Directory/notes.rb",
+				"/home/edwin/Documents/Scripts/Directory/README.md",
+				"/home/edwin/Documents/Scripts/Directory/Gemfile.lock",
+				"/home/edwin/Documents/Scripts/Directory/notes",
+				"/home/edwin/Downloads/integrator.rb",
+				"/home/edwin/PortaTraining/swf/quizzes/list",
+				"/home/edwin/PortaTraining/index.html",
+				"/home/edwin/PortaTraining/InsightTrainingCenterQuizzes.html",
+				"/home/edwin/SmartSignReturn Info",
+				"/home/edwin/Rails/trainingsite/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/trainingsite/config/routes.rb",
+				"/home/edwin/Rails/trainingsite/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/trainingsite/app/views/training/home.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/directory.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/quizzes.js.erb",
+				"/home/edwin/Rails/trainingsite/app/assets/javascripts/application.js",
+				"/home/edwin/Scripts/Finance/lib/finance.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter_spec.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Ruby.sublime-settings",
@@ -416,30 +526,7 @@
 				"/home/edwin/Rails/sinisterbunneh/app/views/devise/shared/_links.haml",
 				"/home/edwin/Rails/sinisterbunneh/app/views/posts/new.html.haml",
 				"/home/edwin/Rails/sinisterbunneh/app/models/user.rb",
-				"/home/edwin/Rails/sinisterbunneh/config/environments/development.rb",
-				"/home/edwin/Rails/sinisterbunneh/README.md",
-				"/home/edwin/Rails/sinisterbunneh/db/migrate/20130215051622_add_image_columns_to_users.rb",
-				"/home/edwin/Rails/sinisterbunneh/app/assets/javascripts/application.js",
-				"/home/edwin/Scripts/DADownloader/dascrape.rb",
-				"/home/edwin/Rails/lunch/config/deploy.rb",
-				"/etc/fstab",
-				"/home/edwin/Rails/lunch/config/deploy/production.rb",
-				"/home/edwin/Scripts/4chandl/4dl.rb",
-				"/home/edwin/Scripts/4chandl/.gitignore",
-				"/home/edwin/Scripts/4chandl/README.md",
-				"/home/edwin/Scripts/4chandl/Gemfile",
-				"/home/edwin/Scripts/DADownloader/config.yml",
-				"/home/edwin/Scripts/DADownloader/config.example.yml",
-				"/home/edwin/Scripts/DADownloader/.gitignore",
-				"/home/edwin/Scripts/DADownloader/Gemfile",
-				"/home/edwin/Scripts/DADownloader/README.md",
-				"/home/edwin/Scripts/Scraper/config.yml",
-				"/home/edwin/Scripts/Scraper/dascrape.rb",
-				"/home/edwin/Scripts/campfire_bot/cfbot.rb",
-				"/home/edwin/Scripts/Scraper/.gitignore",
-				"/home/edwin/Scripts/Scraper/config.example.yml",
-				"/home/edwin/Scripts/Scraper/test.rb",
-				"/home/edwin/Scripts/Scraper/cookietest.rb"
+				"/home/edwin/Rails/sinisterbunneh/config/environments/development.rb"
 			],
 			"find":
 			{
@@ -457,6 +544,12 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"data",
+					"fetch",
+					"\\sclass='.+'",
+					"class='.+'",
+					"^",
+					"/swf/",
 					"file",
 					"loghash",
 					"filter",
@@ -563,6 +656,9 @@
 				"regex": true,
 				"replace_history":
 				[
+					"",
+					"http://192.168.7.38/swf/quizzes/",
+					"/swf/quizzes/",
 					"\\t",
 					"",
 					";\\n",
@@ -625,6 +721,30 @@
 				"selected_items":
 				[
 					[
+						"home",
+						"app/views/training/home.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"controlle",
+						"app/controllers/training_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"app/assets",
+						"app/assets/javascripts/application.js"
+					],
+					[
 						"cust",
 						"app/assets/stylesheets/custom.css.scss"
 					],
@@ -639,10 +759,6 @@
 					[
 						"message",
 						"app/models/message.rb"
-					],
-					[
-						"rou",
-						"config/routes.rb"
 					],
 					[
 						"lobb",
@@ -715,14 +831,6 @@
 					[
 						"messages",
 						"app/controllers/messages_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"custom",
-						"app/assets/stylesheets/custom.css.scss"
 					],
 					[
 						"_for",
@@ -988,6 +1096,86 @@
 				"selected_items":
 				[
 					[
+						"each",
+						"each_slice"
+					],
+					[
+						"max",
+						"max_columns"
+					],
+					[
+						"count",
+						"count_exts"
+					],
+					[
+						"ext",
+						"extlist"
+					],
+					[
+						"col",
+						"columns"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"log",
+						"logo_url"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"accepted",
+						"accepted_types"
+					],
+					[
+						"displa",
+						"display_name"
+					],
+					[
+						"par",
+						"parameters"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"acc",
+						"accepted_types"
+					],
+					[
+						"dis",
+						"display_name"
+					],
+					[
+						"user",
+						"user_password"
+					],
+					[
+						"exte",
+						"extensionshash"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
 						"gree",
 						"greeter"
 					],
@@ -1002,10 +1190,6 @@
 					[
 						"lin",
 						"linehash"
-					],
-					[
-						"log",
-						"loghash"
 					],
 					[
 						"split",
@@ -1062,10 +1246,6 @@
 					[
 						"border-s",
 						"border-style"
-					],
-					[
-						"border",
-						"border-radius"
 					],
 					[
 						"ar",
@@ -1144,18 +1324,51 @@
 			"buffers":
 			[
 				{
-					"file": "/home/edwin/Scripts/Finance/spec/finance_spec.rb",
+					"contents": "#!/usr/bin/env ruby\n# Written by Edwin Millan-Rodriguez\n# Assistance from Errin Larsen with Refactoring\n# Digium Switchvox API Documentation URL: http://developers.digium.com/switchvox/\n\nrequire \"httparty\"\nrequire \"json\"\nrequire \"prawn\"\nrequire \"open-uri\"\n\nclass Extension\n  attr_accessor :ext, :type, :display_name\n\n  def initialize(extension)\n    @ext          = extension[\"number\"]  || \"unkn\"\n    @type         = extension[\"type\"]    || \"unkn\"\n    @display_name = extension[\"display\"] || \"unkn\"\n  end\n\n  def accepted?\n    return accepted_types?(type)\n  end\n\n  def to_s\n    return \"Extension #{ext}\\n  Display Name: #{display_name}\\n  Type: #{type}\"\n  end\n\n  def to_a\n    return [display_name,ext]\n  end\n\n  private\n  def accepted_types\n    return %w[sip ivr call_queue conference simple_conference virtual]\n  end\nend\n\nclass Directory\n  \n  def initialize(options = {})\n    @url      = options[:url]      || raise_argument_error(:url)\n    @username = options[:username] || raise_argument_error(:username)\n    @password = options[:password] || raise_argument_error(:password)\n    @method   = options[:method]   || raise_argument_error(:method)\n    @auth = { username: @username, password: @password }\n    @parameters = options[:parameters] || {}\n  end\n\n  def accepted?(t)\n    accepted_types = [\"sip\",\"ivr\",\"call_queue\",\"conference\",\"simple_conference\",\"virtual\"]\n    return accepted_types.include?(t)\n  end\n\n  def response\n    json_body = {request: {method: @method, parameters: @parameters}}.to_json\n    options = {\n      body: json_body,\n      digest_auth: @auth\n    }\n    return response = HTTParty.post(@url, options)\n  end\n\n  def count\n    return count_exts(response)\n  end\n\n  def list_extensions(*blacklist)\n    extensions(response).map do |raw|\n      extension = Extension.new(raw)\n      puts extension unless blacklist.include?(extension.ext)\n    end\n    return nil\n  end\n\n  def export_extensions(*blacklist)\n    return extensions(response).map! do |raw|\n      extension = Extension.new(raw)\n      extension.to_a unless blacklist.include?(extension.ext)\n    end\n  end\n\n  private\n  \n  def extensions(response)\n    body = JSON.parse(response.body)\n    return body[\"response\"][\"result\"][\"extensions\"][\"extension\"]\n  end\n\n  def count_exts(response)\n    body = JSON.parse(response.body)\n    return body[\"response\"][\"result\"][\"extensions\"][\"total_items\"].to_i\n  end\n\n  def raise_argument_error(arg)\n    raise ArgumentError, \"You must include a #{arg.inspect} option when calling Directory.new\"\n  end\nend\n\n# Example calls\n# require 'directory'\n# d = Directory.new(\n#   { \n#     username: \"api_username\",\n#     password: \"password\",\n#     url: \"https://SWITCHVOX_IP/json\",\n#     method: \"switchvox.extensions.search\",\n#     parameters: {\"items_per_page\" => \"500\"}\n#   }\n# )\n\n# e = Directory.new(\n#   { \n#     username: \"api_username\",\n#     password: \"password\",\n#     url: \"https://SWITCHVOX_IP/json\",\n#     method: \"switchvox.extensions.getInfo\",\n#     parameters: {\"extensions\" => [\"1234\"]}\n#   }\n# )",
+					"file": "/home/edwin/Documents/Scripts/Directory/directory.rb",
+					"file_size": 3002,
+					"file_write_time": 1378321040000000,
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 3002,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/edwin/Scripts/Finance/lib/finance.rb",
+					"contents": "#!/usr/bin/env ruby\n# Written by Edwin Millan-Rodriguez\n\nrequire 'prawn'\nrequire 'open-uri'\n\nnum_extensions = 157\nmax_rows = 60\nmax_columns = 3\n\nextensions = Array.new(num_extensions)\nextensions = extensions.each_index.map { |i| [\"Name#{i}\", \"#{i + 1234}\"] }\n\ncolumns = extensions.each_slice(max_rows).inject([]) { |cols,col| cols << col }\ncolumns.fill([], columns.length...max_columns)\ncolumns.each { |column| column.fill([\" \",\" \"], column.length...max_rows) }\n\ndata = columns.transpose.flatten!.each_slice(6).to_a\n\nPrawn::Document.generate(\"template.pdf\", page_size: \"LEGAL\", page_layout: :portrait) do\n  font_size 24\n  draw_text \"Company Phone Directory\", at: [175,890]\n  font_size 9\n  logo_url = './logo.png'\n  image open(logo_url), width: 122, height: 56, at: [50,926]\n\n  bounding_box([50,880],width: 450, height: 900) do\n    header = [[\"Name\",\"Extension\"] * max_columns]\n    text \"Revision #{Time.now.strftime \"%-m.%d.%Y\"}\", align: :right\n    table(header + data, width: 450, position: :center, cell_style: {padding: 2}, row_colors: [\"EBF0DE\",\"FFFFFF\"], header: true) do\n      row(0).font_style = :bold\n      row(0).text_color = \"FFFFFF\"\n      row(0).background_color = \"9BBA58\"\n    end\n  end\nend",
+					"file": "/home/edwin/Documents/Scripts/Directory/gentemplate.rb",
+					"file_size": 1202,
+					"file_write_time": 1378321088000000,
 					"settings":
 					{
-						"buffer_size": 44,
+						"buffer_size": 1202,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/usr/bin/env ruby\n#\n# This file was generated by Bundler.\n#\n# The application 'pdf_text' is installed as part of a gem, and\n# this file is here to facilitate running it.\n#\n\nrequire 'pathname'\nENV['BUNDLE_GEMFILE'] ||= File.expand_path(\"../../Gemfile\",\n  Pathname.new(__FILE__).realpath)\n\nrequire 'rubygems'\nrequire 'bundler/setup'\n\nload Gem.bin_path('pdf-reader', 'pdf_text')\n",
+					"file": "/home/edwin/Documents/Scripts/Directory/bin/pdf_text",
+					"file_size": 378,
+					"file_write_time": 1378320569000000,
+					"settings":
+					{
+						"buffer_size": 378,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Documents/Scripts/Directory/Gemfile",
+					"settings":
+					{
+						"buffer_size": 133,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Documents/Scripts/Directory/notes.rb",
+					"settings":
+					{
+						"buffer_size": 653,
 						"line_ending": "Unix"
 					}
 				}
@@ -1171,8 +1384,16 @@
 						":w - Save"
 					],
 					[
+						":W",
+						":w - Save"
+					],
+					[
 						"packa",
 						"Package Control: Install Package"
+					],
+					[
+						":x",
+						"Snippet: xhr delete"
 					],
 					[
 						"java",
@@ -1185,10 +1406,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						":x",
-						"Snippet: xhr delete"
 					],
 					[
 						":",
@@ -1288,6 +1505,26 @@
 			},
 			"file_history":
 			[
+				"/home/edwin/Documents/Scripts/Directory/testcolumn.rb",
+				"/home/edwin/Documents/Scripts/Directory/Gemfile",
+				"/home/edwin/Documents/Scripts/Directory/.gitignore",
+				"/home/edwin/Documents/Scripts/Directory/notes.rb",
+				"/home/edwin/Documents/Scripts/Directory/README.md",
+				"/home/edwin/Documents/Scripts/Directory/Gemfile.lock",
+				"/home/edwin/Documents/Scripts/Directory/notes",
+				"/home/edwin/Downloads/integrator.rb",
+				"/home/edwin/PortaTraining/swf/quizzes/list",
+				"/home/edwin/PortaTraining/index.html",
+				"/home/edwin/PortaTraining/InsightTrainingCenterQuizzes.html",
+				"/home/edwin/SmartSignReturn Info",
+				"/home/edwin/Rails/trainingsite/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/trainingsite/config/routes.rb",
+				"/home/edwin/Rails/trainingsite/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/trainingsite/app/views/training/home.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/directory.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/quizzes.js.erb",
+				"/home/edwin/Rails/trainingsite/app/assets/javascripts/application.js",
+				"/home/edwin/Scripts/Finance/lib/finance.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter_spec.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter",
@@ -1395,27 +1632,7 @@
 				"/home/edwin/Rails/sinisterbunneh/app/views/devise/shared/_links.haml",
 				"/home/edwin/Rails/sinisterbunneh/app/views/posts/new.html.haml",
 				"/home/edwin/Rails/sinisterbunneh/app/models/user.rb",
-				"/home/edwin/Rails/sinisterbunneh/config/environments/development.rb",
-				"/home/edwin/Rails/sinisterbunneh/README.md",
-				"/home/edwin/Rails/sinisterbunneh/db/migrate/20130215051622_add_image_columns_to_users.rb",
-				"/home/edwin/Rails/sinisterbunneh/app/assets/javascripts/application.js",
-				"/home/edwin/Scripts/DADownloader/dascrape.rb",
-				"/home/edwin/Rails/lunch/config/deploy.rb",
-				"/etc/fstab",
-				"/home/edwin/Rails/lunch/config/deploy/production.rb",
-				"/home/edwin/Scripts/4chandl/4dl.rb",
-				"/home/edwin/Scripts/4chandl/.gitignore",
-				"/home/edwin/Scripts/4chandl/README.md",
-				"/home/edwin/Scripts/4chandl/Gemfile",
-				"/home/edwin/Scripts/DADownloader/config.yml",
-				"/home/edwin/Scripts/DADownloader/config.example.yml",
-				"/home/edwin/Scripts/DADownloader/.gitignore",
-				"/home/edwin/Scripts/DADownloader/Gemfile",
-				"/home/edwin/Scripts/DADownloader/README.md",
-				"/home/edwin/Scripts/Scraper/config.yml",
-				"/home/edwin/Scripts/Scraper/dascrape.rb",
-				"/home/edwin/Scripts/campfire_bot/cfbot.rb",
-				"/home/edwin/Scripts/Scraper/.gitignore"
+				"/home/edwin/Rails/sinisterbunneh/config/environments/development.rb"
 			],
 			"find":
 			{
@@ -1433,6 +1650,12 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"data",
+					"fetch",
+					"\\sclass='.+'",
+					"class='.+'",
+					"^",
+					"/swf/",
 					"file",
 					"loghash",
 					"filter",
@@ -1539,6 +1762,9 @@
 				"regex": true,
 				"replace_history":
 				[
+					"",
+					"http://192.168.7.38/swf/quizzes/",
+					"/swf/quizzes/",
 					"\\t",
 					"",
 					";\\n",
@@ -1558,29 +1784,160 @@
 			"folders":
 			[
 				{
-					"path": "/home/edwin/Scripts/Finance"
+					"path": "/home/edwin/Documents/Scripts/Directory"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/edwin/Scripts/Finance/spec/finance_spec.rb",
+							"file": "/home/edwin/Documents/Scripts/Directory/directory.rb",
 							"settings":
 							{
-								"buffer_size": 200,
+								"buffer_size": 3002,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										199,
-										199
+										141,
+										141
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/edwin/Documents/Scripts/Directory/gentemplate.rb",
+							"settings":
+							{
+								"buffer_size": 1202,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1192,
+										1192
 									]
 								],
 								"settings":
@@ -1697,19 +2054,277 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/home/edwin/Scripts/Finance/lib/finance.rb",
+							"buffer": 2,
+							"file": "/home/edwin/Documents/Scripts/Directory/bin/pdf_text",
 							"settings":
 							{
-								"buffer_size": 44,
+								"buffer_size": 378,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										44,
-										44
+										378,
+										378
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/edwin/Documents/Scripts/Directory/Gemfile",
+							"settings":
+							{
+								"buffer_size": 133,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										133,
+										133
+									]
+								],
+								"settings":
+								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/edwin/Documents/Scripts/Directory/notes.rb",
+							"settings":
+							{
+								"buffer_size": 653,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										590,
+										590
 									]
 								],
 								"settings":
@@ -1863,7 +2478,7 @@
 			{
 				"height": 114.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,3046,1050",
+			"position": "0,1,0,0,0,0,0,0,0,5040,1050",
 			"replace":
 			{
 				"height": 66.0
@@ -1874,6 +2489,30 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"home",
+						"app/views/training/home.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"controlle",
+						"app/controllers/training_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"app/assets",
+						"app/assets/javascripts/application.js"
+					],
 					[
 						"cust",
 						"app/assets/stylesheets/custom.css.scss"
@@ -1889,10 +2528,6 @@
 					[
 						"message",
 						"app/models/message.rb"
-					],
-					[
-						"rou",
-						"config/routes.rb"
 					],
 					[
 						"lobb",
@@ -1965,14 +2600,6 @@
 					[
 						"messages",
 						"app/controllers/messages_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"custom",
-						"app/assets/stylesheets/custom.css.scss"
 					],
 					[
 						"_for",
@@ -2227,7 +2854,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 279.0,
 			"status_bar_visible": true,
-			"window_id": 47,
+			"window_id": 50,
 			"workspace_name": ""
 		}
 	],

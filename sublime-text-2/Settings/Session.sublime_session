@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/home/edwin/Documents/Scripts/Directory",
+		"/home/edwin/Rails/trainingsite",
 		"/home/edwin/Scripts/Finance",
 		"/home/edwin/Scripts/Rename",
 		"/home/edwin/Scripts/Encryption",
@@ -28,7 +30,7 @@
 		"/home/edwin/Rails/Roleplay",
 		"/home/edwin/RailsApp/lunch"
 	],
-	"last_window_id": 47,
+	"last_window_id": 50,
 	"settings":
 	{
 		"new_window_height": 0.0,
@@ -38,6 +40,22 @@
 			{
 				"selected_items":
 				[
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"gree",
+						"greeter"
+					],
 					[
 						"sr",
 						"src_port"
@@ -109,10 +127,6 @@
 					[
 						"border-s",
 						"border-style"
-					],
-					[
-						"border",
-						"border-radius"
 					],
 					[
 						"ar",
@@ -197,6 +211,10 @@
 					[
 						":w",
 						":w - Save"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
 					],
 					[
 						"java",
@@ -295,7 +313,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 516.0
+				"width": 588.0
 			},
 			"console":
 			{
@@ -312,6 +330,18 @@
 			},
 			"file_history":
 			[
+				"/home/edwin/SmartSignReturn Info",
+				"/home/edwin/Rails/trainingsite/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/trainingsite/config/routes.rb",
+				"/home/edwin/Rails/trainingsite/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/trainingsite/app/views/training/home.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/directory.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/quizzes.js.erb",
+				"/home/edwin/Rails/trainingsite/app/assets/javascripts/application.js",
+				"/home/edwin/Scripts/Finance/lib/finance.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter_spec.rb",
+				"/home/edwin/Scripts/RspecTesting/greeter",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Preferences.sublime-settings",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Ruby.sublime-settings",
@@ -427,19 +457,7 @@
 				"/home/edwin/Scripts/4chandl/4dl.rb",
 				"/home/edwin/Scripts/4chandl/.gitignore",
 				"/home/edwin/Scripts/4chandl/README.md",
-				"/home/edwin/Scripts/4chandl/Gemfile",
-				"/home/edwin/Scripts/DADownloader/config.yml",
-				"/home/edwin/Scripts/DADownloader/config.example.yml",
-				"/home/edwin/Scripts/DADownloader/.gitignore",
-				"/home/edwin/Scripts/DADownloader/Gemfile",
-				"/home/edwin/Scripts/DADownloader/README.md",
-				"/home/edwin/Scripts/Scraper/config.yml",
-				"/home/edwin/Scripts/Scraper/dascrape.rb",
-				"/home/edwin/Scripts/campfire_bot/cfbot.rb",
-				"/home/edwin/Scripts/Scraper/.gitignore",
-				"/home/edwin/Scripts/Scraper/config.example.yml",
-				"/home/edwin/Scripts/Scraper/test.rb",
-				"/home/edwin/Scripts/Scraper/cookietest.rb"
+				"/home/edwin/Scripts/4chandl/Gemfile"
 			],
 			"find":
 			{
@@ -457,6 +475,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"/swf/",
 					"file",
 					"loghash",
 					"filter",
@@ -563,6 +582,7 @@
 				"regex": true,
 				"replace_history":
 				[
+					"/swf/quizzes/",
 					"\\t",
 					"",
 					";\\n",
@@ -625,6 +645,30 @@
 				"selected_items":
 				[
 					[
+						"home",
+						"app/views/training/home.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"controlle",
+						"app/controllers/training_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"app/assets",
+						"app/assets/javascripts/application.js"
+					],
+					[
 						"cust",
 						"app/assets/stylesheets/custom.css.scss"
 					],
@@ -639,10 +683,6 @@
 					[
 						"message",
 						"app/models/message.rb"
-					],
-					[
-						"rou",
-						"config/routes.rb"
 					],
 					[
 						"lobb",
@@ -715,14 +755,6 @@
 					[
 						"messages",
 						"app/controllers/messages_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"custom",
-						"app/assets/stylesheets/custom.css.scss"
 					],
 					[
 						"_for",
@@ -988,6 +1020,22 @@
 				"selected_items":
 				[
 					[
+						"exte",
+						"extensionshash"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
 						"gree",
 						"greeter"
 					],
@@ -1062,10 +1110,6 @@
 					[
 						"border-s",
 						"border-style"
-					],
-					[
-						"border",
-						"border-radius"
 					],
 					[
 						"ar",
@@ -1144,18 +1188,18 @@
 			"buffers":
 			[
 				{
-					"file": "/home/edwin/Scripts/Finance/spec/finance_spec.rb",
+					"file": "/home/edwin/Documents/Scripts/Directory/directory.rb",
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 976,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/edwin/Scripts/Finance/lib/finance.rb",
+					"file": "/home/edwin/Documents/Scripts/Directory/Gemfile",
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 49,
 						"line_ending": "Unix"
 					}
 				}
@@ -1167,12 +1211,16 @@
 				"selected_items":
 				[
 					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
 						":w",
 						":w - Save"
+					],
+					[
+						":x",
+						"Snippet: xhr delete"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
 					],
 					[
 						"java",
@@ -1185,10 +1233,6 @@
 					[
 						"insta",
 						"Package Control: Install Package"
-					],
-					[
-						":x",
-						"Snippet: xhr delete"
 					],
 					[
 						":",
@@ -1271,7 +1315,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 516.0
+				"width": 588.0
 			},
 			"console":
 			{
@@ -1288,6 +1332,20 @@
 			},
 			"file_history":
 			[
+				"/home/edwin/Documents/Scripts/Directory/notes",
+				"/home/edwin/Downloads/integrator.rb",
+				"/home/edwin/PortaTraining/swf/quizzes/list",
+				"/home/edwin/PortaTraining/index.html",
+				"/home/edwin/PortaTraining/InsightTrainingCenterQuizzes.html",
+				"/home/edwin/SmartSignReturn Info",
+				"/home/edwin/Rails/trainingsite/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/trainingsite/config/routes.rb",
+				"/home/edwin/Rails/trainingsite/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/trainingsite/app/views/training/home.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/directory.html.haml",
+				"/home/edwin/Rails/trainingsite/app/views/training/quizzes.js.erb",
+				"/home/edwin/Rails/trainingsite/app/assets/javascripts/application.js",
+				"/home/edwin/Scripts/Finance/lib/finance.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter_spec.rb",
 				"/home/edwin/Scripts/RspecTesting/greeter",
@@ -1401,21 +1459,7 @@
 				"/home/edwin/Rails/sinisterbunneh/app/assets/javascripts/application.js",
 				"/home/edwin/Scripts/DADownloader/dascrape.rb",
 				"/home/edwin/Rails/lunch/config/deploy.rb",
-				"/etc/fstab",
-				"/home/edwin/Rails/lunch/config/deploy/production.rb",
-				"/home/edwin/Scripts/4chandl/4dl.rb",
-				"/home/edwin/Scripts/4chandl/.gitignore",
-				"/home/edwin/Scripts/4chandl/README.md",
-				"/home/edwin/Scripts/4chandl/Gemfile",
-				"/home/edwin/Scripts/DADownloader/config.yml",
-				"/home/edwin/Scripts/DADownloader/config.example.yml",
-				"/home/edwin/Scripts/DADownloader/.gitignore",
-				"/home/edwin/Scripts/DADownloader/Gemfile",
-				"/home/edwin/Scripts/DADownloader/README.md",
-				"/home/edwin/Scripts/Scraper/config.yml",
-				"/home/edwin/Scripts/Scraper/dascrape.rb",
-				"/home/edwin/Scripts/campfire_bot/cfbot.rb",
-				"/home/edwin/Scripts/Scraper/.gitignore"
+				"/etc/fstab"
 			],
 			"find":
 			{
@@ -1433,6 +1477,10 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"\\sclass='.+'",
+					"class='.+'",
+					"^",
+					"/swf/",
 					"file",
 					"loghash",
 					"filter",
@@ -1539,6 +1587,9 @@
 				"regex": true,
 				"replace_history":
 				[
+					"",
+					"http://192.168.7.38/swf/quizzes/",
+					"/swf/quizzes/",
 					"\\t",
 					"",
 					";\\n",
@@ -1558,33 +1609,135 @@
 			"folders":
 			[
 				{
-					"path": "/home/edwin/Scripts/Finance"
+					"path": "/home/edwin/Documents/Scripts/Directory"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/edwin/Scripts/Finance/spec/finance_spec.rb",
+							"file": "/home/edwin/Documents/Scripts/Directory/directory.rb",
 							"settings":
 							{
-								"buffer_size": 200,
+								"buffer_size": 976,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										200,
-										200
+										976,
+										976
 									]
 								],
 								"settings":
 								{
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
 									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -1595,23 +1748,126 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/edwin/Scripts/Finance/lib/finance.rb",
+							"file": "/home/edwin/Documents/Scripts/Directory/Gemfile",
 							"settings":
 							{
-								"buffer_size": 42,
+								"buffer_size": 49,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										40,
-										40
+										49,
+										49
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1657,7 +1913,7 @@
 			{
 				"height": 114.0
 			},
-			"position": "0,1,0,0,0,224,0,864,480,3046,1050",
+			"position": "0,1,0,0,0,2014,218,2654,698,5040,1050",
 			"replace":
 			{
 				"height": 66.0
@@ -1668,6 +1924,30 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"home",
+						"app/views/training/home.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"controlle",
+						"app/controllers/training_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"app/assets",
+						"app/assets/javascripts/application.js"
+					],
 					[
 						"cust",
 						"app/assets/stylesheets/custom.css.scss"
@@ -1683,10 +1963,6 @@
 					[
 						"message",
 						"app/models/message.rb"
-					],
-					[
-						"rou",
-						"config/routes.rb"
 					],
 					[
 						"lobb",
@@ -1759,14 +2035,6 @@
 					[
 						"messages",
 						"app/controllers/messages_controller.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"custom",
-						"app/assets/stylesheets/custom.css.scss"
 					],
 					[
 						"_for",
@@ -2021,7 +2289,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 279.0,
 			"status_bar_visible": true,
-			"window_id": 47,
+			"window_id": 50,
 			"workspace_name": ""
 		}
 	],
