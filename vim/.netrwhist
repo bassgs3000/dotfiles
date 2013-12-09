@@ -1,11 +1,4 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/edwin/Rails/wasptracker/config'
-let g:netrw_dirhist_2='/home/edwin/Rails/lunch/app/views/layouts'
-let g:netrw_dirhist_3='/usr/local/bin'
-let g:netrw_dirhist_4='/home/edwin/.ssh'
-let g:netrw_dirhist_5='/home/edwin/Documents/Scripts/HourlyBackup/testfolder'
-let g:netrw_dirhist_6='/etc/NetworkManager'
-let g:netrw_dirhist_7='/home/edwin/Documents/Scripts/Procurement-v2/Days'
-let g:netrw_dirhist_8='/home/edwin/Documents/Scripts/Directory/.bundle'
-let g:netrw_dirhist_9='/home/edwin/.ssh'
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/edwin/Documents/Scripts/Newhire/CST'
+let g:netrw_dirhist_2='/home/edwin/Documents/Scripts/Procurement-v2'
