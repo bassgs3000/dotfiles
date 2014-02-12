@@ -1,25 +1,39 @@
 {
 	"folder_history":
 	[
+		"/home/edwin/Rails/trainingsite",
+		"/home/edwin/Rails/Insight_Nexus",
+		"/var/www/vicitest",
+		"/home/edwin/Documents/Scripts/SwitchvoxReports",
+		"/home/edwin/Documents/Scripts/SwitchvoxReports/lib",
+		"/home/edwin/Documents/Scripts/PhoneDirectory",
+		"/home/edwin/Documents/Scripts/SQLbkp",
+		"/home/edwin/Rails/Dashboard",
+		"/home/edwin/Rails/plugins/PhoneDirectory",
+		"/home/edwin/Documents/Scripts/Finance",
+		"/home/edwin/Rails/Lunchfoo",
+		"/home/edwin/Documents/Scripts/Lunchfoo",
+		"/home/edwin/Documents/Scripts/LunchScript",
+		"/home/edwin/Scripts/Chore_Rotator",
+		"/home/edwin/Documents/Scripts/rake-it-up",
+		"/home/edwin/Documents/Scripts/Chore_Rotator",
+		"/home/edwin/Documents/Scripts/Trello",
+		"/home/edwin/EOG",
 		"/home/edwin/Documents/Scripts/WoL",
 		"/home/edwin/Documents/Scripts/Test/Readability",
 		"/home/edwin/Documents/Scripts/Encryption",
 		"/home/edwin/Documents/Scripts/DiceRoll",
 		"/home/edwin/Documents/Scripts/Cards",
-		"/home/edwin/Documents/Scripts/PhoneDirectory",
 		"/home/edwin/Documents/Scripts/Rot13",
 		"/home/edwin/Documents/Scripts/SpamCheck",
 		"/home/edwin/Rails/Lunch_IT",
-		"/home/edwin/Documents/Scripts/LunchScript",
 		"/home/edwin/Rails/CSR",
 		"/home/edwin/Documents/Scripts/Loadformgen",
 		"/home/edwin/Rails/RPBoard",
 		"/home/edwin/Documents/Scripts/Spehs",
-		"/home/edwin/Rails/Dashboard",
 		"/home/edwin/Documents/Scripts/GuiTest",
 		"/home/edwin/Rails/Weather",
 		"/home/edwin/Documents/Scripts/Directory",
-		"/home/edwin/Rails/trainingsite",
 		"/home/edwin/Documents/Scripts/CardHelper",
 		"/home/edwin/Documents/Scripts/GoogleDrive",
 		"/home/edwin/Documents/Scripts/ZDice",
@@ -50,7 +64,7 @@
 		"/home/edwin/Rails/Roleplay",
 		"/home/edwin/RailsApp/lunch"
 	],
-	"last_window_id": 88,
+	"last_window_id": 113,
 	"settings":
 	{
 		"new_window_height": 480.0,
@@ -61,1418 +75,201 @@
 				"selected_items":
 				[
 					[
-						"par",
-						"parser_url"
+						"prnt",
+						"print_r"
 					],
 					[
-						"desc",
-						"desrc	describe (RESTful Controller)"
+						"db",
+						"db_query"
 					],
 					[
-						"en",
-						"encrypted"
+						"db_",
+						"db_con"
 					],
 					[
-						"enc",
-						"encrypted"
+						"msql",
+						"msql_close"
 					],
 					[
-						"cal",
-						"calculate_normal_indexes"
+						"preg",
+						"preg_match"
 					],
 					[
-						"ins",
-						"inspect  (function)"
-					],
-					[
-						"inde",
-						"indexes"
-					],
-					[
-						"ind",
-						"index_math_results"
-					],
-					[
-						"index",
-						"index_results"
-					],
-					[
-						"al",
-						"alphabet"
-					],
-					[
-						"mail",
-						"mail_alert"
-					],
-					[
-						"list",
-						"listed_result"
-					],
-					[
-						"lis",
-						"listed_result"
-					],
-					[
-						"padd",
-						"padding-left"
-					],
-					[
-						"ra",
-						"raw_input"
-					],
-					[
-						"num",
-						"num_of_dice"
-					],
-					[
-						"uni",
-						"unified_layout"
-					],
-					[
-						"ran",
-						"rand_result"
-					],
-					[
-						"rest",
-						"restlist"
-					],
-					[
-						"Conf",
-						"confirmation"
-					],
-					[
-						"res",
-						"respond_to"
-					],
-					[
-						"user",
-						"user_management"
-					],
-					[
-						"inpu",
-						"inputindex"
-					],
-					[
-						"beneficia",
-						"beneficiary"
-					],
-					[
-						"input",
-						"inputname"
-					],
-					[
-						"beneficiary",
-						"beneficiary_entry"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"benefi",
-						"beneficiary"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"col",
-						"col_count"
-					],
-					[
-						"row",
-						"row_capacity"
-					],
-					[
-						"max",
-						"max_rows"
-					],
-					[
-						"max_",
-						"max_columns"
-					],
-					[
-						"raw",
-						"raw_response"
-					],
-					[
-						"ex",
-						"export_extensions"
-					],
-					[
-						"wid",
-						"widthoptions"
-					],
-					[
-						"di",
-						"dirpdf"
-					],
-					[
-						"pdf",
-						"pdfoptions"
-					],
-					[
-						"pra",
-						"prawn_pdf_generation"
-					],
-					[
-						"ass",
-						"assert_kind_of"
-					],
-					[
-						"test",
-						"testdir"
-					],
-					[
-						"ext",
-						"ext_list"
-					],
-					[
-						"Direc",
-						"directory"
-					],
-					[
-						"pars",
-						"parsed_response"
-					],
-					[
-						"info",
-						"infoary"
-					],
-					[
-						"uo",
-						"uploaded_file"
-					],
-					[
-						"upl",
-						"uploaded_file"
-					],
-					[
-						"count",
-						"count_columns"
-					],
-					[
-						"co",
-						"column_count"
-					],
-					[
-						"each",
-						"each_slice"
-					],
-					[
-						"req",
-						"require"
-					],
-					[
-						"log",
-						"logo_url"
-					],
-					[
-						"resp",
-						"response"
-					],
-					[
-						"accepted",
-						"accepted_types"
-					],
-					[
-						"displa",
-						"display_name"
-					],
-					[
-						"opt",
-						"options"
-					],
-					[
-						"pass",
-						"password"
-					],
-					[
-						"acc",
-						"accepted_types"
-					],
-					[
-						"dis",
-						"display_name"
-					],
-					[
-						"exte",
-						"extensionshash"
-					],
-					[
-						"border-co",
-						"border-color"
-					],
-					[
-						"bord",
-						"border"
-					],
-					[
-						"gree",
-						"greeter"
-					],
-					[
-						"sr",
-						"src_port"
-					],
-					[
-						"line",
-						"linehash"
-					],
-					[
-						"lin",
-						"linehash"
-					],
-					[
-						"split",
-						"splitline"
-					],
-					[
-						"foldr",
-						"folderindex"
-					],
-					[
-						"folder",
-						"folderindex"
-					],
-					[
-						"folde",
-						"folderindex"
-					],
-					[
-						"cha",
-						"chatroom"
-					],
-					[
-						"private",
-						"private_chatrooms"
-					],
-					[
-						"invite",
-						"invitequery"
+						"for",
+						"foreach	foreach …"
 					],
 					[
 						"vali",
-						"validate"
+						"validate_post_data"
 					],
 					[
-						"pub",
-						"publish_path"
+						"acc",
+						"accepted_params"
 					],
 					[
-						"marg",
-						"margin-left"
+						"fun",
+						"function"
 					],
 					[
-						"me",
-						"messages_path"
+						"des",
+						"destination_md5"
 					],
 					[
-						"mar",
-						"margin-top"
+						"org",
+						"original_md5"
 					],
 					[
-						"border-s",
-						"border-style"
+						"td",
+						"tdVal"
 					],
 					[
-						"ar",
-						"artist"
+						"font-",
+						"font-family"
 					],
 					[
-						"inline",
-						"inline-block"
+						"font",
+						"font-size"
 					],
 					[
-						"ver",
-						"verification"
-					],
-					[
-						"ruby",
-						"ruby_version"
-					],
-					[
-						"comiss",
-						"comissions_path"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"dir",
-						"directory"
-					],
-					[
-						"err",
-						"err"
-					],
-					[
-						"ta",
-						"targetdir"
-					],
-					[
-						"last",
-						"lastpage"
-					],
-					[
-						"art",
-						"art"
-					],
-					[
-						"cookie",
-						"cookiestring"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"no",
-						"no_content"
-					]
-				]
-			},
-			"build_system": "Packages/RSpec/RSpec.sublime-build",
-			"command_palette":
-			{
-				"height": 56.0,
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						":W",
-						":w - Save"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						":x",
-						"Snippet: xhr delete"
-					],
-					[
-						"java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"cofee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						":",
-						":w - Save"
-					],
-					[
-						"gss",
-						"Git: Status"
-					],
-					[
-						"git comm",
-						"Git: Commit"
-					],
-					[
-						"git add",
-						"Git: Add Current File"
-					],
-					[
-						"",
-						":w - Save"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						":Q",
-						"Set Syntax: SQL"
-					],
-					[
-						"syntax html",
-						"Set Syntax: HTML (Rails)"
-					],
-					[
-						"git push",
-						"Git: Push"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"git add .",
-						"Git: Add..."
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						":q",
-						"Git: Quick Commit"
-					],
-					[
-						"git pull",
-						"Git: Pull"
-					],
-					[
-						"git re",
-						"Git: Reset (hard) HEAD"
-					],
-					[
-						":$",
-						":$ - EOF"
-					],
-					[
-						":0",
-						":0 - BOF"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"repl",
-						"SublimeREPL: Ruby"
-					],
-					[
-						"install ",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 529.0
-			},
-			"console":
-			{
-				"height": 139.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/edwin/Downloads/Pubkey.txt",
-				"/home/edwin/Downloads/wol.py",
-				"/home/edwin/Downloads/README",
-				"/home/edwin/Documents/Scripts/Test/Readability/readability.rb",
-				"/home/edwin/Downloads/config_local.php",
-				"/home/edwin/Documents/Scripts/Encryption/.pem",
-				"/home/edwin/Documents/Scripts/Encryption/_pub.pem",
-				"/home/edwin/Documents/Scripts/DiceRoll/spec/roll_spec.rb",
-				"/home/edwin/Documents/Scripts/DiceRoll/Guardfile",
-				"/home/edwin/Documents/Scripts/DiceRoll/Gemfile",
-				"/home/edwin/Documents/Scripts/DiceRoll/spec/spec_helper.rb",
-				"/home/edwin/Documents/Scripts/DiceRoll/roll.rb",
-				"/home/edwin/Documents/Scripts/Cards/deck.rb",
-				"/home/edwin/Documents/Scripts/Cards/card.rb",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox/directory.rb",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox/extension.rb",
-				"/home/edwin/Documents/Scripts/SpamCheck/Gemfile",
-				"/home/edwin/Documents/Scripts/SpamCheck/spamcheck.rb",
-				"/home/edwin/Documents/Scripts/Procurement-v2/Gemfile",
-				"/home/edwin/Documents/Scripts/Procurement-v2/bcfl.rb",
-				"/home/edwin/Rails/Lunch_IT/app/helpers/pick_it_helper.rb",
-				"/home/edwin/Rails/Lunch_IT/app/views/pick_it/index.html.haml",
-				"/home/edwin/Rails/Lunch_IT/config/routes.rb",
-				"/home/edwin/Rails/Lunch_IT/restaurants.yml",
-				"/home/edwin/Rails/Lunch_IT/app/views/restaurants/index.html.haml",
-				"/home/edwin/Rails/Lunch_IT/app/views/restaurants/_form.html.haml",
-				"/home/edwin/Rails/Lunch_IT/app/controllers/restaurants_controller.rb",
-				"/home/edwin/Rails/Lunch_IT/app/controllers/genres_controller.rb",
-				"/home/edwin/Rails/Lunch_IT/app/views/genres/_form.html.haml",
-				"/home/edwin/Rails/Lunch_IT/app/views/genres/edit.html.haml",
-				"/home/edwin/Rails/Lunch_IT/app/views/genres/index.html.haml",
-				"/home/edwin/Rails/Lunch_IT/app/assets/stylesheets/custom.css.scss",
-				"/home/edwin/Documents/Scripts/LunchScript/Gemfile",
-				"/home/edwin/Rails/Lunch_IT/public/index.html",
-				"/home/edwin/Rails/Lunch_IT/app/views/layouts/application.html.erb",
-				"/home/edwin/Rails/CSR/config/database.yml",
-				"/home/edwin/Rails/CSR/app/assets/javascripts/application.js",
-				"/home/edwin/Rails/CSR/app/views/stats/index.html.haml",
-				"/home/edwin/Rails/CSR/db/schema.rb",
-				"/home/edwin/Rails/CSR/app/models/user.rb",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/edit.html.haml",
-				"/home/edwin/Rails/CSR/app/views/user_management/edit.html.haml",
-				"/home/edwin/Rails/CSR/app/controllers/user_management_controller.rb",
-				"/home/edwin/Rails/CSR/app/views/user_management/index.html.haml",
-				"/home/edwin/Rails/CSR/app/controllers/stats_controller.rb",
-				"/home/edwin/Rails/CSR/app/models/web_login_incentive.rb",
-				"/home/edwin/Rails/CSR/app/views/layouts/_navbar.html.haml",
-				"/home/edwin/Rails/CSR/app/views/user_management/_form.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131111203203_add_default_value_to_is_active.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111202919_rename_disabled_to_is_active_in_users.rb",
-				"/home/edwin/Rails/CSR/app/models/federal_benefit.rb",
-				"/home/edwin/Rails/CSR/app/controllers/web_login_incentives_controller.rb",
-				"/home/edwin/Rails/CSR/app/models/outbound_sale.rb",
-				"/home/edwin/Rails/CSR/app/models/direct_deposit.rb",
-				"/home/edwin/Rails/CSR/app/assets/stylesheets/custom.css.scss",
-				"/home/edwin/Rails/CSR/app/controllers/outbound_sales_controller.rb",
-				"/home/edwin/Rails/CSR/app/controllers/federal_benefits_controller.rb",
-				"/home/edwin/Rails/CSR/app/controllers/direct_deposits_controller.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111183737_add_user_id_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb",
-				"/home/edwin/Rails/CSR/app/models/beneficiary.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111183032_add_direct_deposit_id_to_users.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111174033_rename_reporter_to_stats_in_user.rb",
-				"/home/edwin/Rails/CSR/app/views/users/registrations/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/users/registrations/edit.html.haml",
-				"/home/edwin/Rails/CSR/config/routes.rb",
-				"/home/edwin/Rails/CSR/app/views/users/passwords/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/users/passwords/edit.html.haml",
-				"/home/edwin/Rails/CSR/spec/models/user_spec.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108202012_add_admin_to_users.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108194842_add_csr_email_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/_form.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/_form.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131108191716_remove_ben_first_name_ben_last_name_ben_ssn_from_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108191509_remove_csr_name_from_direct_deposits.rb",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_form.html.haml",
-				"/home/edwin/Rails/CSR/config/initializers/devise.rb",
-				"/home/edwin/Rails/CSR/app/views/users/sessions/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/csr_portal/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_beneficiary_fields.html.haml",
-				"/home/edwin/Rails/CSR/app/assets/javascripts/federal_benefits.js.coffee",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/add.html.haml",
-				"/home/edwin/Rails/CSR/app/helpers/federal_benefits_helper.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105202942_create_beneficiary_data.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105200848_rename_beneficiaries_to_beneficiary_data.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105150343_add_beneficiary_id_to_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105144915_create_beneficiaries.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105145916_federal_benefits_has_many_beneficiaries.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105150008_add_beneficiaries_association_to_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_beneficiary.html.haml",
-				"/home/edwin/Rails/CSR/app/assets/javascripts/web_login_incentives.js.coffee",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/_form.html.haml",
-				"/home/edwin/Rails/CSR/app/helpers/outbound_sales_helper.rb",
-				"/home/edwin/Rails/CSR/app/helpers/web_login_incentives_helper.rb",
-				"/home/edwin/Rails/CSR/app/controllers/csr_portal_controller.rb",
-				"/home/edwin/Rails/CSR/app/views/layouts/application.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131031215157_add_teller_stuff_to_federal_benefit.rb",
-				"/home/edwin/Rails/CSR/Gemfile",
-				"/home/edwin/Rails/CSR/app/helpers/direct_deposits_helper.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131031195852_add_prn_to_direct_deposit.rb",
-				"/home/edwin/Documents/Scripts/VNCDeploy/tightvnc.bat",
-				"/home/edwin/Rails/Dashboard/config/routes.rb",
-				"/home/edwin/Rails/Dashboard/app/views/targetprocess/index.html.haml",
-				"/home/edwin/Documents/Scripts/Erm/erm.rb",
-				"/home/edwin/Downloads/IDology-Insight_Card_Prepaid.txt",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/test/unit/switchvox/pdf_test.rb",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/Gemfile",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/Gemfile.lock",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/README.md",
-				"/home/edwin/Rails/Weather/README.md",
-				"/home/edwin/Rails/Weather/config/boot.rb",
-				"/home/edwin/Rails/Weather/app/views/weather/index.html.haml",
-				"/home/edwin/Rails/Weather/app/views/layouts/application.html.erb",
-				"/var/tmp/kdecache-edwin/krun/10377.0.egnyte.bat",
-				"/home/edwin/Documents/Scripts/Directory/gentemplate.rb",
-				"/home/edwin/Documents/Scripts/Directory/directory.rb",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox.rb"
-			],
-			"find":
-			{
-				"height": 43.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"s_to_rot13",
-					"indexes",
-					"difference",
-					"to_rot13",
-					"rot13_to_s",
-					"rot13_index_to_s",
-					"puts",
-					"rt_results",
-					"i_results",
-					"results",
-					"puts",
-					"index_results",
-					"index_math_results",
-					"times",
-					"genres",
-					"^\\n",
-					"Not Active",
-					"^\\n",
-					"direct_deposits_",
-					"outbound_sales",
-					"federal_benefit_id",
-					"%b ",
-					"first_name",
-					"radio",
-					":radio",
-					"\\n",
-					"<.+>(.+)<.+>",
-					"<option value=\"\" selected=\"selected\">Select a language</option>",
-					"<.+>(.+)</option>",
-					"beneficiaries",
-					"f",
-					"beneficiary_data",
-					"beneficaries",
-					"builder",
-					"Customer's",
-					"First",
-					"    return [ Social Security Disability / Retirement / Death Benefits --Paid out on the 3rd of the month or Wednesdays\n Supplemental Security Income -- Paid out on the 1st of the month\n Veteran's Compensation and Pension--Paid out on the 1st of the month\n Veteran's Education MGIB--Paid out on the 1st of the month\n Veteran's Life Insurance--Paid out on the 1st of the month\n Veteran's Vocational Rehabilitation and Employment--Paid out on the 1st of the month\n Federal Civil Service Retirement/Annuity--Paid out on the 1st of the month\n Federal Civil Service Survivor/Annuity--Paid out on the 1st of the month\n Railroad Retirement/Annuity Benefits --Paid out on the 1st business day of the month\n Railroad Retirement Unemployment/Sickness--Paid out on the 1st business day of the month]\n",
-					"\\$",
-					"$",
-					"\\s+$",
-					"text_field",
-					"\\sMember\\s",
-					"targetprocess",
-					"progress",
-					"response",
-					"location",
-					"\\n",
-					"doc",
-					"return",
-					"data",
-					"Template",
-					"testext",
-					"testdir",
-					"options",
-					"opts",
-					"options",
-					"@",
-					"= ",
-					"notice",
-					"jj",
-					"data",
-					"fetch",
-					"\\sclass='.+'",
-					"class='.+'",
-					"^",
-					"/swf/",
-					"file",
-					"loghash",
-					"filter",
-					"-I",
-					"block",
-					"MASQUE",
-					"::",
-					"folderlist",
-					"pwd+f",
-					"  ",
-					"  $(\".",
-					"room",
-					"      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"",
-					"\\?\\d+$",
-					"    ",
-					"post",
-					"        ",
-					"lulu",
-					"tnail",
-					"; ",
-					"\n  get 'imgur#index'\n  root to: 'imgur#index'\n",
-					"gem",
-					"today",
-					"\n",
-					"#page=1",
-					"p",
-					"page",
-					".all",
-					"post",
-					"    ",
-					"error:",
-					"error",
-					"notice",
-					"alert",
-					"path",
-					"news_",
-					"post",
-					"Post",
-					"post",
-					"Post",
-					"count",
-					"deviantArt",
-					"deviantart",
-					"@restaurant",
-					"])",
-					"pagelink",
-					"file",
-					"link",
-					"name",
-					"artlinks",
-					"remote_pic_data",
-					"Dir",
-					"dir",
-					"18\n18\n18",
-					"baseuri",
-					"\\bhttp:\\/\\/\\w+.deviantart.com\\/art\\/[a-zA-Z0-9-]+\\b",
-					"(http)(:)(\\\\/)(\\\\/)((?:[a-z][a-z]+)).*?(deviantart)(\\\\.)(com)(\\\\/)(art)(\\\\/)((?:[a-z][a-z]+))(.).*?(\\\\d+)\n(http)(:)(\\\\/)(\\\\/)((?:[a-z][a-z]+)).*?(deviantart)(\\\\.)(com)(\\\\/)(art)(\\\\/)((?:[a-z][a-z]+))(.).*?(\\\\d+)",
-					"like_foo.save",
-					" <<",
-					"should",
-					"respond_to",
-					".date-field{\n	width:50px;\n}"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"",
-					":radio_buttons",
-					", ",
-					"\\1",
-					"\\1\\n",
-					"f",
-					"",
-					"$",
-					"\\n",
-					"",
-					", ",
-					"PDF",
-					"extension",
-					"",
-					"http://192.168.7.38/swf/quizzes/",
-					"/swf/quizzes/",
-					"\\t",
-					"",
-					";\\n",
-					"News",
-					"news",
-					"_",
-					" ",
-					"",
-					"token_secret"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 36.0
-			},
-			"input":
-			{
-				"height": 35.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.504981691412,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 114.0
-			},
-			"output.git":
-			{
-				"height": 114.0
-			},
-			"replace":
-			{
-				"height": 66.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"pick",
-						"app/assets/javascripts/pick_it.js.coffee"
-					],
-					[
-						"custom",
-						"app/assets/stylesheets/custom.css.scss"
-					],
-					[
-						"restind",
-						"app/views/restaurants/index.html.haml"
-					],
-					[
-						"res",
-						"app/models/restaurant.rb"
-					],
-					[
-						"genr",
-						"app/models/genre.rb"
-					],
-					[
-						"resta",
-						"app/controllers/restaurants_controller.rb"
-					],
-					[
-						"genre",
-						"app/controllers/genres_controller.rb"
-					],
-					[
-						"out",
-						"config/routes.rb"
-					],
-					[
-						"views",
-						"app/views/layouts/application.html.haml"
-					],
-					[
-						"rout",
-						"config/routes.rb"
-					],
-					[
-						"layout",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"dat",
-						"config/database.yml"
-					],
-					[
-						"app",
-						"app/assets/javascripts/application.js"
-					],
-					[
-						"user.",
-						"app/models/user.rb"
-					],
-					[
-						"schema",
-						"db/schema.rb"
-					],
-					[
-						"add_defau",
-						"db/migrate/20131111203203_add_default_value_to_is_active.rb"
-					],
-					[
-						"user",
-						"app/controllers/user_management_controller.rb"
-					],
-					[
-						"disabled",
-						"db/migrate/20131111202919_rename_disabled_to_is_active_in_users.rb"
-					],
-					[
-						"nav",
-						"app/views/layouts/_navbar.html.haml"
-					],
-					[
-						"id_to",
-						"db/migrate/20131111183032_add_direct_deposit_id_to_users.rb"
-					],
-					[
-						"stats",
-						"app/controllers/stats_controller.rb"
-					],
-					[
-						"rename",
-						"db/migrate/20131111174033_rename_reporter_to_stats_in_user.rb"
-					],
-					[
-						"registration",
-						"app/views/users/registrations/edit.html.haml"
-					],
-					[
-						"_form",
-						"app/views/user_management/_form.html.haml"
-					],
-					[
-						"java",
-						"app/assets/javascripts/application.js"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"use",
-						"app/models/user.rb"
-					],
-					[
-						"users",
-						"spec/models/user_spec.rb"
-					],
-					[
-						"admin",
-						"db/migrate/20131108202012_add_admin_to_users.rb"
-					],
-					[
-						"add_cs",
-						"db/migrate/20131108194842_add_csr_email_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb"
-					],
-					[
-						"removeben",
-						"db/migrate/20131108191716_remove_ben_first_name_ben_last_name_ben_ssn_from_federal_benefits.rb"
-					],
-					[
-						"remove",
-						"db/migrate/20131108191509_remove_csr_name_from_direct_deposits.rb"
-					],
-					[
-						"sc",
-						"db/schema.rb"
-					],
-					[
-						"devise",
-						"config/initializers/devise.rb"
-					],
-					[
-						"cust",
-						"app/assets/stylesheets/custom.css.scss"
-					],
-					[
-						"devis",
-						"config/initializers/devise.rb"
-					],
-					[
-						"feder",
-						"app/models/federal_benefit.rb"
-					],
-					[
-						"application.",
-						"app/assets/javascripts/application.js"
-					],
-					[
-						"helper",
-						"app/helpers/federal_benefits_helper.rb"
-					],
-					[
-						"data",
-						"db/migrate/20131105202942_create_beneficiary_data.rb"
-					],
-					[
-						"sche",
-						"db/schema.rb"
-					],
-					[
-						"to_feder",
-						"db/migrate/20131105150343_add_beneficiary_id_to_federal_benefits.rb"
-					],
-					[
-						"create",
-						"db/migrate/20131105144915_create_beneficiaries.rb"
-					],
-					[
-						"add",
-						"db/migrate/20131105150008_add_beneficiaries_association_to_federal_benefits.rb"
-					],
-					[
-						"federal_benefits_has",
-						"db/migrate/20131105145916_federal_benefits_has_many_beneficiaries.rb"
-					],
-					[
-						"fed",
-						"app/models/federal_benefit.rb"
-					],
-					[
-						"addtell",
-						"db/migrate/20131031215157_add_teller_stuff_to_federal_benefit.rb"
-					],
-					[
-						"ro",
-						"config/routes.rb"
-					],
-					[
-						"c",
-						"app/assets/stylesheets/custom.css.scss"
-					],
-					[
-						"add_pr",
-						"db/migrate/20131031195852_add_prn_to_direct_deposit.rb"
-					],
-					[
-						"route",
-						"config/routes.rb"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"home",
-						"app/views/training/home.html.haml"
-					],
-					[
-						"rou",
-						"config/routes.rb"
-					],
-					[
-						"controlle",
-						"app/controllers/training_controller.rb"
-					],
-					[
-						"app/assets",
-						"app/assets/javascripts/application.js"
-					],
-					[
-						"lobbycof",
-						"app/assets/javascripts/lobby.js.coffee"
-					],
-					[
-						"chat",
-						"app/models/chatroom.rb"
-					],
-					[
-						"message",
-						"app/models/message.rb"
-					],
-					[
-						"lobb",
-						"app/assets/javascripts/lobby.js.coffee"
-					],
-					[
-						"index",
-						"app/views/messages/index.html.haml"
-					],
-					[
-						"messages.cof",
-						"app/assets/javascripts/messages.js.coffee"
-					],
-					[
-						"js.er",
-						"app/views/messages/create.js.erb"
-					],
-					[
-						"coffe",
-						"app/assets/javascripts/messages.js.coffee"
-					],
-					[
-						"new",
-						"app/views/lobby/new.html.haml"
-					],
-					[
-						"lobby",
-						"app/controllers/lobby_controller.rb"
-					],
-					[
-						"js.",
-						"app/views/messages/create.js.haml"
-					],
-					[
-						"coff",
-						"app/assets/javascripts/messages.js.coffee"
-					],
-					[
-						"lay",
-						"app/views/layouts/application.html.haml"
-					],
-					[
-						"messa",
-						"app/controllers/messages_controller.rb"
-					],
-					[
-						"ind",
-						"app/views/messages/index.html.haml"
-					],
-					[
-						"r",
-						"config/routes.rb"
-					],
-					[
-						"appli",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"messages",
-						"app/controllers/messages_controller.rb"
-					],
-					[
-						"_for",
-						"app/views/messages/_form.html.haml"
-					],
-					[
-						"cofee",
-						"app/assets/javascripts/messages.js.coffee"
-					],
-					[
-						"inde",
-						"app/views/messages/index.html.haml"
-					],
-					[
-						"head",
-						"app/views/layouts/_header.html.haml"
-					],
-					[
-						"upda",
-						"app/views/comissions/update.html.haml"
-					],
-					[
-						"edit",
-						"app/views/comissions/edit.html.haml"
-					],
-					[
-						"comiss",
-						"app/controllers/comissions_controller.rb"
-					],
-					[
-						"controller",
-						"app/controllers/comission_controller.rb"
-					],
-					[
-						"header",
-						"app/views/layouts/_header.html.haml"
-					],
-					[
-						"content",
-						"app/views/gallery/_content.html.haml"
-					],
-					[
-						"envi",
-						"config/environment.rb"
-					],
-					[
-						"gal",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"pos",
-						"app/controllers/posts_controller.rb"
-					],
-					[
-						"news",
-						"app/controllers/news_controller.rb"
-					],
-					[
-						"galle",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"gall",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"post",
-						"app/controllers/posts_controller.rb"
-					],
-					[
-						"galler",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"con",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"contro",
-						"app/controllers/gallery_controller.rb"
-					],
-					[
-						"d",
-						"config/environments/development.rb"
-					],
-					[
-						"deve",
-						"config/environments/development.rb"
-					],
-					[
-						"develo",
-						"config/environments/development.rb"
-					],
-					[
-						"controll",
-						"app/controllers/restaurants_controller.rb"
-					],
-					[
-						"restaurantinde",
-						"app/views/restaurants/index.html.haml"
+						"req",
+						"required"
 					],
 					[
 						"btn",
-						"app/views/restaurants/_preferences_btn_group.html.haml"
+						"btn-default"
 					],
 					[
-						"regist",
-						"app/views/devise/registrations/edit.html.haml"
+						"up",
+						"uploaded_io"
 					],
 					[
-						"pref",
-						"app/controllers/preferences_controller.rb"
+						"margin-",
+						"margin-left"
 					],
 					[
-						"js",
-						"app/assets/javascripts/restaurant.js.coffee"
+						"margin",
+						"margin-right"
 					],
 					[
-						"pre",
-						"app/controllers/preferences_controller.rb"
+						"fff",
+						"FFF"
 					],
 					[
-						"restaurantcon",
-						"app/controllers/restaurants_controller.rb"
+						"background",
+						"background-color"
 					],
 					[
-						"btngr",
-						"app/views/restaurants/_preferences_btn_group.html.haml"
+						"back",
+						"background-color"
 					],
 					[
-						"restaurantham",
-						"app/views/restaurants/index.html.haml"
+						"insigh",
+						"insightGreen"
 					],
 					[
-						"_btn",
-						"app/views/restaurants/_preferences_btn_group.html.haml"
+						"insight",
+						"insightGrey"
 					],
 					[
-						"restham",
-						"app/views/restaurants/index.html.haml"
+						"in",
+						"insightDarkGreen"
 					],
 					[
-						"drop",
-						"db/migrate/20130126205845_drop_entries_table.rb"
+						"paddin",
+						"padding-top"
 					],
 					[
-						"migra",
-						"db/migrate/20130108221300_add_name_to_user.rb"
+						"Phone",
+						"Phone_Directory"
 					],
 					[
-						"entry",
-						"app/models/entry.rb"
+						"Direc",
+						"Directory"
 					],
 					[
-						"cont",
-						"app/controllers/entries_controller.rb"
+						"rest",
+						"restauraunt"
 					],
 					[
-						"show",
-						"app/views/character_sheets/show.html.erb"
+						"hist",
+						"history_path"
 					],
 					[
-						"chara",
-						"app/models/character_sheet.rb"
+						"opt",
+						"opts"
 					],
 					[
-						"remo",
-						"db/migrate/20130108054025_remove_nickname_from_character_sheet.rb"
+						"histo",
+						"history_path"
 					],
 					[
-						"form",
-						"app/views/character_sheets/_form.html.erb"
+						"his",
+						"history_components"
 					],
 					[
-						"ge",
-						"Gemfile"
+						"pick",
+						"pick_restaurant"
 					],
 					[
-						"formtas",
-						"config/initializers/formtastic.rb"
+						"load",
+						"load_history"
 					],
 					[
-						"apll",
-						"app/views/layouts/application.html.erb"
+						"member",
+						"member"
 					],
 					[
-						"appl",
-						"app/assets/stylesheets/application.css"
+						"membe",
+						"member_board"
 					],
 					[
-						"vi",
-						"app/views/entries/index.html.erb"
+						"add",
+						"additional_members"
 					],
 					[
-						"entries",
-						"app/controllers/entries_controller.rb"
+						"list",
+						"list_date"
 					],
 					[
-						"ent",
-						"app/models/entry.rb"
+						"daily",
+						"daily_list"
 					],
 					[
-						"gemfi",
-						"Gemfile"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 312.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
+						"boar",
+						"board"
+					],
+					[
+						"card",
+						"card_and_list"
+					],
+					[
+						"cop",
+						"copy_card"
+					],
+					[
+						"lis",
+						"list_id"
+					],
+					[
+						"en",
+						"encode"
+					],
+					[
+						"boa",
+						"board_id"
+					],
+					[
+						"board",
+						"board_id"
+					],
+					[
+						"ra",
+						"raise_arg_error"
+					],
+					[
+						"api",
+						"api_key"
+					],
 					[
 						"par",
 						"parser_url"
@@ -1480,10 +277,6 @@
 					[
 						"desc",
 						"desrc	describe (RESTful Controller)"
-					],
-					[
-						"en",
-						"encrypted"
 					],
 					[
 						"enc",
@@ -1518,20 +311,8 @@
 						"mail_alert"
 					],
 					[
-						"list",
-						"listed_result"
-					],
-					[
-						"lis",
-						"listed_result"
-					],
-					[
 						"padd",
 						"padding-left"
-					],
-					[
-						"ra",
-						"raw_input"
 					],
 					[
 						"num",
@@ -1544,10 +325,6 @@
 					[
 						"ran",
 						"rand_result"
-					],
-					[
-						"rest",
-						"restlist"
 					],
 					[
 						"Conf",
@@ -1576,10 +353,6 @@
 					[
 						"beneficiary",
 						"beneficiary_entry"
-					],
-					[
-						"margin",
-						"margin-top"
 					],
 					[
 						"benefi",
@@ -1642,10 +415,6 @@
 						"ext_list"
 					],
 					[
-						"Direc",
-						"directory"
-					],
-					[
 						"pars",
 						"parsed_response"
 					],
@@ -1674,10 +443,6 @@
 						"each_slice"
 					],
 					[
-						"req",
-						"require"
-					],
-					[
 						"log",
 						"logo_url"
 					],
@@ -1694,16 +459,8 @@
 						"display_name"
 					],
 					[
-						"opt",
-						"options"
-					],
-					[
 						"pass",
 						"password"
-					],
-					[
-						"acc",
-						"accepted_types"
 					],
 					[
 						"dis",
@@ -1766,10 +523,6 @@
 						"invitequery"
 					],
 					[
-						"vali",
-						"validate"
-					],
-					[
 						"pub",
 						"publish_path"
 					],
@@ -1810,10 +563,6 @@
 						"comissions_path"
 					],
 					[
-						"in",
-						"inline-block"
-					],
-					[
 						"dir",
 						"directory"
 					],
@@ -1836,50 +585,39 @@
 					[
 						"cookie",
 						"cookiestring"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"no",
-						"no_content"
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/home/edwin/Downloads/EOG/final.csv",
-					"settings":
-					{
-						"buffer_size": 478927,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/edwin/Downloads/EOG/final_2.csv",
-					"settings":
-					{
-						"buffer_size": 478927,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/edwin/Downloads/EOG/rb/file_preparer.rb",
-					"settings":
-					{
-						"buffer_size": 375,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "Packages/RSpec/RSpec.sublime-build",
 			"command_palette":
 			{
-				"height": 56.0,
+				"height": 375.0,
 				"selected_items":
 				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -1889,24 +627,12 @@
 						"Package Control: Remove Package"
 					],
 					[
-						":w",
-						":w - Save"
-					],
-					[
 						"pack",
 						"Package Control: Remove Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						":W",
 						":w - Save"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
 					],
 					[
 						":x",
@@ -1921,10 +647,6 @@
 						"Set Syntax: CoffeeScript"
 					],
 					[
-						":",
-						":w - Save"
-					],
-					[
 						"gss",
 						"Git: Status"
 					],
@@ -1935,10 +657,6 @@
 					[
 						"git add",
 						"Git: Add Current File"
-					],
-					[
-						"",
-						":w - Save"
 					],
 					[
 						"install",
@@ -2001,11 +719,11 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 529.0
+				"width": 579.0
 			},
 			"console":
 			{
-				"height": 139.0
+				"height": 141.0
 			},
 			"distraction_free":
 			{
@@ -2018,12 +736,91 @@
 			},
 			"file_history":
 			[
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/javascripts/directory.js.coffee",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/pdf.html.haml",
+				"/home/edwin/Documents/Scripts/irc_fw/fw.sh",
+				"/home/edwin/Documents/Scripts/irc_fw/fw2.sh",
+				"/home/edwin/Documents/Scripts/SQLbkp/2014_1_28/testfile2.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/testfile.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/dbbackup.co.py",
+				"/home/edwin/Documents/Scripts/SQLbkp/dbbackup.py.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/2014_1_28\\2014_1_28\\testfile2.bak",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/sqlbkp.py",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/edwin/Rails/Dashboard/app/helpers/application_helper.rb",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/edwin/Rails/Dashboard/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/Dashboard/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Dashboard/app/assets/javascripts/application.js",
+				"/home/edwin/Rails/Dashboard/Gemfile",
+				"/home/edwin/Rails/Dashboard/app/assets/javascripts/newhire.js.coffee",
+				"/home/edwin/Rails/Dashboard/app/assets/stylesheets/application.css",
+				"/home/edwin/Rails/Dashboard/app/helpers/newhire_helper.rb",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/process.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/layouts/_navbar.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/show.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/_form_fields.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/home/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/_sidebar.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/directory_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/models/admin.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/application_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/config/locales/devise.en.yml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140117193702_add_approved_to_admin.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/devise/registrations/new.html.erb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/concerns/admin_sanitizer.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/quizzes_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/operations/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/app/views/home/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/config/routes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/show.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/upload.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/Gemfile",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/simple-sidebar.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/sidebar.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/app/models/quiz.rb",
+				"/home/edwin/Rails/Insight_Nexus/db/schema.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/_form.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140116181059_add_attachment_attached_quiz_to_quizzes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/operations/converter.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/javascripts/operations.js.coffee",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140116163335_add_attachment_quiz_to_quizzes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/download.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/_header.html.haml",
+				"/tmp/pry20140114-20941-1ro3qrb.rb",
+				"/tmp/pry20140114-20941-157f4b7.rb",
+				"/tmp/pry20140114-20941-n473dj.rb",
+				"/tmp/pry20140114-20941-wly8z0.rb",
+				"/tmp/pry20140114-20941-1n09mpo.rb",
+				"/home/edwin/Documents/Scripts/LunchScript/lib/suggester.rb",
+				"/home/edwin/Documents/Scripts/LunchScript/history.yml",
+				"/home/edwin/Scripts/Chore_Rotator/proto.rb",
+				"/home/edwin/Scripts/Chore_Rotator/README.md",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/chore_rotator.rb",
+				"/tmp/pry20131219-2195-18leab2.rb",
+				"/home/edwin/Scripts/Chore_Rotator/lib/chore_rotator.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/rotator_spec.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/retriever_spec.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/spec_helper.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/rotator.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/retriever.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/.rspec",
+				"/home/edwin/Documents/Scripts/Finance/finance.rb",
+				"/home/edwin/Downloads/bookmarks_12_10_13.html",
+				"/home/edwin/Documents/Scripts/Test/Pry/testing.rb",
+				"/home/edwin/Downloads/EOG/final_2.csv",
+				"/home/edwin/Downloads/EOG/final.csv",
+				"/home/edwin/Downloads/EOG/rb/file_preparer.rb",
 				"/home/edwin/Downloads/EOG/routing_num",
 				"/home/edwin/Downloads/EOG/raw.csv",
 				"/home/edwin/Downloads/EOG/import.csv",
 				"/home/edwin/Downloads/EOG/import2.csv",
 				"/home/edwin/Downloads/EOG/AEOG.csv",
-				"/home/edwin/Downloads/EOG/rb/file_preparer.rb",
 				"/home/edwin/Downloads/EOG/aeog.csv",
 				"/home/edwin/Downloads/raw.csv",
 				"/home/edwin/Documents/Scripts/WoL/wol.rb",
@@ -2066,86 +863,7 @@
 				"/home/edwin/Rails/CSR/app/assets/javascripts/application.js",
 				"/home/edwin/Rails/CSR/app/views/stats/index.html.haml",
 				"/home/edwin/Rails/CSR/db/schema.rb",
-				"/home/edwin/Rails/CSR/app/models/user.rb",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/edit.html.haml",
-				"/home/edwin/Rails/CSR/app/views/user_management/edit.html.haml",
-				"/home/edwin/Rails/CSR/app/controllers/user_management_controller.rb",
-				"/home/edwin/Rails/CSR/app/views/user_management/index.html.haml",
-				"/home/edwin/Rails/CSR/app/controllers/stats_controller.rb",
-				"/home/edwin/Rails/CSR/app/models/web_login_incentive.rb",
-				"/home/edwin/Rails/CSR/app/views/layouts/_navbar.html.haml",
-				"/home/edwin/Rails/CSR/app/views/user_management/_form.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131111203203_add_default_value_to_is_active.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111202919_rename_disabled_to_is_active_in_users.rb",
-				"/home/edwin/Rails/CSR/app/models/federal_benefit.rb",
-				"/home/edwin/Rails/CSR/app/controllers/web_login_incentives_controller.rb",
-				"/home/edwin/Rails/CSR/app/models/outbound_sale.rb",
-				"/home/edwin/Rails/CSR/app/models/direct_deposit.rb",
-				"/home/edwin/Rails/CSR/app/assets/stylesheets/custom.css.scss",
-				"/home/edwin/Rails/CSR/app/controllers/outbound_sales_controller.rb",
-				"/home/edwin/Rails/CSR/app/controllers/federal_benefits_controller.rb",
-				"/home/edwin/Rails/CSR/app/controllers/direct_deposits_controller.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111183737_add_user_id_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb",
-				"/home/edwin/Rails/CSR/app/models/beneficiary.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111183032_add_direct_deposit_id_to_users.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131111174033_rename_reporter_to_stats_in_user.rb",
-				"/home/edwin/Rails/CSR/app/views/users/registrations/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/users/registrations/edit.html.haml",
-				"/home/edwin/Rails/CSR/config/routes.rb",
-				"/home/edwin/Rails/CSR/app/views/users/passwords/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/users/passwords/edit.html.haml",
-				"/home/edwin/Rails/CSR/spec/models/user_spec.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108202012_add_admin_to_users.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108194842_add_csr_email_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/_form.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/_form.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131108191716_remove_ben_first_name_ben_last_name_ben_ssn_from_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131108191509_remove_csr_name_from_direct_deposits.rb",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_form.html.haml",
-				"/home/edwin/Rails/CSR/config/initializers/devise.rb",
-				"/home/edwin/Rails/CSR/app/views/users/sessions/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/csr_portal/index.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_beneficiary_fields.html.haml",
-				"/home/edwin/Rails/CSR/app/assets/javascripts/federal_benefits.js.coffee",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/show.html.haml",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/outbound_sales/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/direct_deposits/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/new.html.haml",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/add.html.haml",
-				"/home/edwin/Rails/CSR/app/helpers/federal_benefits_helper.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105202942_create_beneficiary_data.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105200848_rename_beneficiaries_to_beneficiary_data.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105150343_add_beneficiary_id_to_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105144915_create_beneficiaries.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105145916_federal_benefits_has_many_beneficiaries.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131105150008_add_beneficiaries_association_to_federal_benefits.rb",
-				"/home/edwin/Rails/CSR/app/views/federal_benefits/_beneficiary.html.haml",
-				"/home/edwin/Rails/CSR/app/assets/javascripts/web_login_incentives.js.coffee",
-				"/home/edwin/Rails/CSR/app/views/web_login_incentives/_form.html.haml",
-				"/home/edwin/Rails/CSR/app/helpers/outbound_sales_helper.rb",
-				"/home/edwin/Rails/CSR/app/helpers/web_login_incentives_helper.rb",
-				"/home/edwin/Rails/CSR/app/controllers/csr_portal_controller.rb",
-				"/home/edwin/Rails/CSR/app/views/layouts/application.html.haml",
-				"/home/edwin/Rails/CSR/db/migrate/20131031215157_add_teller_stuff_to_federal_benefit.rb",
-				"/home/edwin/Rails/CSR/Gemfile",
-				"/home/edwin/Rails/CSR/app/helpers/direct_deposits_helper.rb",
-				"/home/edwin/Rails/CSR/db/migrate/20131031195852_add_prn_to_direct_deposit.rb",
-				"/home/edwin/Documents/Scripts/VNCDeploy/tightvnc.bat",
-				"/home/edwin/Rails/Dashboard/config/routes.rb",
-				"/home/edwin/Rails/Dashboard/app/views/targetprocess/index.html.haml",
-				"/home/edwin/Documents/Scripts/Erm/erm.rb",
-				"/home/edwin/Downloads/IDology-Insight_Card_Prepaid.txt",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/test/unit/switchvox/pdf_test.rb",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/Gemfile",
-				"/home/edwin/Documents/Scripts/PhoneDirectory/Gemfile.lock"
+				"/home/edwin/Rails/CSR/app/models/user.rb"
 			],
 			"find":
 			{
@@ -2163,6 +881,39 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"_POST",
+					" -",
+					"DROP",
+					"os",
+					"ctrl+k",
+					"currently_editing",
+					"input_field",
+					"match",
+					"User",
+					".page-content",
+					"download",
+					"quizzes",
+					"Home",
+					"kde",
+					"</option>",
+					"<option.+\">",
+					"^\\s+",
+					"arg",
+					"args",
+					"    @history_path = opts[:history_path]\n    @token        = opts[:token]        || raise_arg_error(:token)\n    @room         = opts[:room]         || raise_arg_error(:room)\n    @organization = opts[:organization] || raise_arg_error(:organization)",
+					"history_params",
+					"cuisine",
+					"list_time",
+					"list",
+					"archive_url",
+					"label",
+					"name",
+					"dir",
+					"https://api.trello.com/1",
+					"api_key",
+					"auth_token",
+					";",
+					"target",
 					"(\\d+,.+)(,)(.+,071)",
 					"71025797",
 					"\"",
@@ -2257,40 +1008,7 @@
 					"pwd+f",
 					"  ",
 					"  $(\".",
-					"room",
-					"      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"\n    .room\n      = link_to \"Mockup Room A\", \"#\"",
-					"\\?\\d+$",
-					"    ",
-					"post",
-					"        ",
-					"lulu",
-					"tnail",
-					"; ",
-					"\n  get 'imgur#index'\n  root to: 'imgur#index'\n",
-					"gem",
-					"today",
-					"\n",
-					"#page=1",
-					"p",
-					"page",
-					".all",
-					"post",
-					"    ",
-					"error:",
-					"error",
-					"notice",
-					"alert",
-					"path",
-					"news_",
-					"post",
-					"Post",
-					"post",
-					"Post",
-					"count",
-					"deviantArt",
-					"deviantart",
-					"@restaurant",
-					"])"
+					"room"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2298,6 +1016,8 @@
 				"regex": true,
 				"replace_history":
 				[
+					"",
+					";\\n",
 					"\\1 \\3",
 					"071025797",
 					"",
@@ -2336,307 +1056,12 @@
 					"",
 					"token_secret"
 				],
-				"reverse": false,
+				"reverse": true,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/edwin/Downloads/EOG/final.csv",
-							"settings":
-							{
-								"buffer_size": 478927,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/edwin/Downloads/EOG/final_2.csv",
-							"settings":
-							{
-								"buffer_size": 478927,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										932,
-										932
-									]
-								],
-								"settings":
-								{
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/edwin/Downloads/EOG/rb/file_preparer.rb",
-							"settings":
-							{
-								"buffer_size": 375,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										375,
-										375
-									]
-								],
-								"settings":
-								{
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Ruby/Ruby.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 36.0
@@ -2654,11 +1079,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -2676,7 +1108,6 @@
 			{
 				"height": 114.0
 			},
-			"position": "0,1,0,0,0,2245,0,2885,480,5040,1050",
 			"replace":
 			{
 				"height": 66.0
@@ -2687,6 +1118,74 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"direc",
+						"app/views/directory/index.html.haml"
+					],
+					[
+						"newhirejs",
+						"app/assets/javascripts/newhire.js.coffee"
+					],
+					[
+						"newhi",
+						"app/controllers/newhire_controller.rb"
+					],
+					[
+						"index",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"devise.",
+						"config/locales/devise.en.yml"
+					],
+					[
+						"admin",
+						"app/models/admin.rb"
+					],
+					[
+						"quiz",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"qui",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"quizz",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"sid",
+						"app/views/layouts/_sidebar.html.haml"
+					],
+					[
+						"dir",
+						"app/views/directory/index.html.haml"
+					],
+					[
+						"home",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
 					[
 						"pick",
 						"app/assets/javascripts/pick_it.js.coffee"
@@ -2722,10 +1221,6 @@
 					[
 						"views",
 						"app/views/layouts/application.html.haml"
-					],
-					[
-						"rout",
-						"config/routes.rb"
 					],
 					[
 						"layout",
@@ -2788,20 +1283,12 @@
 						"app/assets/javascripts/application.js"
 					],
 					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
 						"use",
 						"app/models/user.rb"
 					],
 					[
 						"users",
 						"spec/models/user_spec.rb"
-					],
-					[
-						"admin",
-						"db/migrate/20131108202012_add_admin_to_users.rb"
 					],
 					[
 						"add_cs",
@@ -2876,10 +1363,6 @@
 						"db/migrate/20131031215157_add_teller_stuff_to_federal_benefit.rb"
 					],
 					[
-						"ro",
-						"config/routes.rb"
-					],
-					[
 						"c",
 						"app/assets/stylesheets/custom.css.scss"
 					],
@@ -2894,14 +1377,6 @@
 					[
 						"gem",
 						"Gemfile"
-					],
-					[
-						"home",
-						"app/views/training/home.html.haml"
-					],
-					[
-						"rou",
-						"config/routes.rb"
 					],
 					[
 						"controlle",
@@ -2926,10 +1401,6 @@
 					[
 						"lobb",
 						"app/assets/javascripts/lobby.js.coffee"
-					],
-					[
-						"index",
-						"app/views/messages/index.html.haml"
 					],
 					[
 						"messages.cof",
@@ -2974,10 +1445,6 @@
 					[
 						"r",
 						"config/routes.rb"
-					],
-					[
-						"appli",
-						"app/controllers/application_controller.rb"
 					],
 					[
 						"messages",
@@ -3162,30 +1629,6 @@
 					[
 						"formtas",
 						"config/initializers/formtastic.rb"
-					],
-					[
-						"apll",
-						"app/views/layouts/application.html.erb"
-					],
-					[
-						"appl",
-						"app/assets/stylesheets/application.css"
-					],
-					[
-						"vi",
-						"app/views/entries/index.html.erb"
-					],
-					[
-						"entries",
-						"app/controllers/entries_controller.rb"
-					],
-					[
-						"ent",
-						"app/models/entry.rb"
-					],
-					[
-						"gemfi",
-						"Gemfile"
 					]
 				],
 				"width": 0.0
@@ -3202,9 +1645,1781 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 312.0,
+			"side_bar_width": 280.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"prnt",
+						"print_r"
+					],
+					[
+						"db",
+						"db_query"
+					],
+					[
+						"db_",
+						"db_con"
+					],
+					[
+						"msql",
+						"msql_close"
+					],
+					[
+						"preg",
+						"preg_match"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"vali",
+						"validate_post_data"
+					],
+					[
+						"acc",
+						"accepted_params"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"des",
+						"destination_md5"
+					],
+					[
+						"org",
+						"original_md5"
+					],
+					[
+						"td",
+						"tdVal"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"req",
+						"required"
+					],
+					[
+						"btn",
+						"btn-default"
+					],
+					[
+						"up",
+						"uploaded_io"
+					],
+					[
+						"margin-",
+						"margin-left"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"fff",
+						"FFF"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"insigh",
+						"insightGreen"
+					],
+					[
+						"insight",
+						"insightGrey"
+					],
+					[
+						"in",
+						"insightDarkGreen"
+					],
+					[
+						"paddin",
+						"padding-top"
+					],
+					[
+						"Phone",
+						"Phone_Directory"
+					],
+					[
+						"Direc",
+						"Directory"
+					],
+					[
+						"rest",
+						"restauraunt"
+					],
+					[
+						"hist",
+						"history_path"
+					],
+					[
+						"opt",
+						"opts"
+					],
+					[
+						"histo",
+						"history_path"
+					],
+					[
+						"his",
+						"history_components"
+					],
+					[
+						"pick",
+						"pick_restaurant"
+					],
+					[
+						"load",
+						"load_history"
+					],
+					[
+						"member",
+						"member"
+					],
+					[
+						"membe",
+						"member_board"
+					],
+					[
+						"add",
+						"additional_members"
+					],
+					[
+						"list",
+						"list_date"
+					],
+					[
+						"daily",
+						"daily_list"
+					],
+					[
+						"boar",
+						"board"
+					],
+					[
+						"card",
+						"card_and_list"
+					],
+					[
+						"cop",
+						"copy_card"
+					],
+					[
+						"lis",
+						"list_id"
+					],
+					[
+						"en",
+						"encode"
+					],
+					[
+						"boa",
+						"board_id"
+					],
+					[
+						"board",
+						"board_id"
+					],
+					[
+						"ra",
+						"raise_arg_error"
+					],
+					[
+						"api",
+						"api_key"
+					],
+					[
+						"par",
+						"parser_url"
+					],
+					[
+						"desc",
+						"desrc	describe (RESTful Controller)"
+					],
+					[
+						"enc",
+						"encrypted"
+					],
+					[
+						"cal",
+						"calculate_normal_indexes"
+					],
+					[
+						"ins",
+						"inspect  (function)"
+					],
+					[
+						"inde",
+						"indexes"
+					],
+					[
+						"ind",
+						"index_math_results"
+					],
+					[
+						"index",
+						"index_results"
+					],
+					[
+						"al",
+						"alphabet"
+					],
+					[
+						"mail",
+						"mail_alert"
+					],
+					[
+						"padd",
+						"padding-left"
+					],
+					[
+						"num",
+						"num_of_dice"
+					],
+					[
+						"uni",
+						"unified_layout"
+					],
+					[
+						"ran",
+						"rand_result"
+					],
+					[
+						"Conf",
+						"confirmation"
+					],
+					[
+						"res",
+						"respond_to"
+					],
+					[
+						"user",
+						"user_management"
+					],
+					[
+						"inpu",
+						"inputindex"
+					],
+					[
+						"beneficia",
+						"beneficiary"
+					],
+					[
+						"input",
+						"inputname"
+					],
+					[
+						"beneficiary",
+						"beneficiary_entry"
+					],
+					[
+						"benefi",
+						"beneficiary"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"col",
+						"col_count"
+					],
+					[
+						"row",
+						"row_capacity"
+					],
+					[
+						"max",
+						"max_rows"
+					],
+					[
+						"max_",
+						"max_columns"
+					],
+					[
+						"raw",
+						"raw_response"
+					],
+					[
+						"ex",
+						"export_extensions"
+					],
+					[
+						"wid",
+						"widthoptions"
+					],
+					[
+						"di",
+						"dirpdf"
+					],
+					[
+						"pdf",
+						"pdfoptions"
+					],
+					[
+						"pra",
+						"prawn_pdf_generation"
+					],
+					[
+						"ass",
+						"assert_kind_of"
+					],
+					[
+						"test",
+						"testdir"
+					],
+					[
+						"ext",
+						"ext_list"
+					],
+					[
+						"pars",
+						"parsed_response"
+					],
+					[
+						"info",
+						"infoary"
+					],
+					[
+						"uo",
+						"uploaded_file"
+					],
+					[
+						"upl",
+						"uploaded_file"
+					],
+					[
+						"count",
+						"count_columns"
+					],
+					[
+						"co",
+						"column_count"
+					],
+					[
+						"each",
+						"each_slice"
+					],
+					[
+						"log",
+						"logo_url"
+					],
+					[
+						"resp",
+						"response"
+					],
+					[
+						"accepted",
+						"accepted_types"
+					],
+					[
+						"displa",
+						"display_name"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"dis",
+						"display_name"
+					],
+					[
+						"exte",
+						"extensionshash"
+					],
+					[
+						"border-co",
+						"border-color"
+					],
+					[
+						"bord",
+						"border"
+					],
+					[
+						"gree",
+						"greeter"
+					],
+					[
+						"sr",
+						"src_port"
+					],
+					[
+						"line",
+						"linehash"
+					],
+					[
+						"lin",
+						"linehash"
+					],
+					[
+						"split",
+						"splitline"
+					],
+					[
+						"foldr",
+						"folderindex"
+					],
+					[
+						"folder",
+						"folderindex"
+					],
+					[
+						"folde",
+						"folderindex"
+					],
+					[
+						"cha",
+						"chatroom"
+					],
+					[
+						"private",
+						"private_chatrooms"
+					],
+					[
+						"invite",
+						"invitequery"
+					],
+					[
+						"pub",
+						"publish_path"
+					],
+					[
+						"marg",
+						"margin-left"
+					],
+					[
+						"me",
+						"messages_path"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"border-s",
+						"border-style"
+					],
+					[
+						"ar",
+						"artist"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"ver",
+						"verification"
+					],
+					[
+						"ruby",
+						"ruby_version"
+					],
+					[
+						"comiss",
+						"comissions_path"
+					],
+					[
+						"dir",
+						"directory"
+					],
+					[
+						"err",
+						"err"
+					],
+					[
+						"ta",
+						"targetdir"
+					],
+					[
+						"last",
+						"lastpage"
+					],
+					[
+						"art",
+						"art"
+					],
+					[
+						"cookie",
+						"cookiestring"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/edwin/Rails/Insight_Nexus/app/views/quizzes/index.html.haml",
+					"settings":
+					{
+						"buffer_size": 1207,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Rails/Insight_Nexus/app/controllers/quizzes_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1987,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Rails/Insight_Nexus/app/views/quizzes/_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 277,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Rails/Insight_Nexus/app/controllers/categories_controller.rb",
+					"settings":
+					{
+						"buffer_size": 1969,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/edwin/Rails/Insight_Nexus/app/helpers/admins_helper.rb",
+					"settings":
+					{
+						"buffer_size": 123,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/RSpec/RSpec.sublime-build",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						":x",
+						"Snippet: xhr delete"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"cofee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"gss",
+						"Git: Status"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						":Q",
+						"Set Syntax: SQL"
+					],
+					[
+						"syntax html",
+						"Set Syntax: HTML (Rails)"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						":q",
+						"Git: Quick Commit"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git re",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						":$",
+						":$ - EOF"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"repl",
+						"SublimeREPL: Ruby"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 141.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/categories_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/categories/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/_form.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140212193657_add_quiz_id_to_category.rb",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140212193621_add_category_id_to_quiz.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/models/category.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/models/quiz.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admins/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/config/database.yml",
+				"/home/edwin/Rails/Insight_Nexus/Gemfile",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/admins_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/show.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140211175607_add_is_active_to_admins.rb",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140211175607_add_active_to_admins.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admins/edit.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/config/routes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/_sidebar.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admins/_form.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admins/show.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/helpers/admins_helper.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/directory_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admins/update.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/models/admin.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/admin_tools_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/operations/converter.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/pdf.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/app/views/admin_tools/users.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/helpers/admin_tools_helper.rb",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140210201734_add_super_admin_to_admin.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/javascripts/operations.js.coffee",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/javascripts/directory.js.coffee",
+				"/home/edwin/Documents/Scripts/irc_fw/fw.sh",
+				"/home/edwin/Documents/Scripts/irc_fw/fw2.sh",
+				"/home/edwin/Documents/Scripts/SQLbkp/2014_1_28/testfile2.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/testfile.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/dbbackup.co.py",
+				"/home/edwin/Documents/Scripts/SQLbkp/dbbackup.py.bak",
+				"/home/edwin/Documents/Scripts/SQLbkp/2014_1_28\\2014_1_28\\testfile2.bak",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/sqlbkp.py",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+				"/home/edwin/Rails/Dashboard/app/helpers/application_helper.rb",
+				"/home/edwin/dotfiles/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/edwin/Rails/Dashboard/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/Dashboard/app/assets/stylesheets/custom.css.scss",
+				"/home/edwin/Rails/Dashboard/app/assets/javascripts/application.js",
+				"/home/edwin/Rails/Dashboard/Gemfile",
+				"/home/edwin/Rails/Dashboard/app/assets/javascripts/newhire.js.coffee",
+				"/home/edwin/Rails/Dashboard/app/assets/stylesheets/application.css",
+				"/home/edwin/Rails/Dashboard/app/helpers/newhire_helper.rb",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/process.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/layouts/_navbar.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/show.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/newhire/_form_fields.html.haml",
+				"/home/edwin/Rails/Dashboard/app/views/home/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/application_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/config/locales/devise.en.yml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140117193702_add_approved_to_admin.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/devise/registrations/new.html.erb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/concerns/admin_sanitizer.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/controllers/quizzes_controller.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/operations/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/home/index.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/quizzes/upload.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/simple-sidebar.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/app/assets/stylesheets/sidebar.css.scss",
+				"/home/edwin/Rails/Insight_Nexus/db/schema.rb",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140116181059_add_attachment_attached_quiz_to_quizzes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/application.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/db/migrate/20140116163335_add_attachment_quiz_to_quizzes.rb",
+				"/home/edwin/Rails/Insight_Nexus/app/views/directory/download.html.haml",
+				"/home/edwin/Rails/Insight_Nexus/app/views/layouts/_header.html.haml",
+				"/tmp/pry20140114-20941-1ro3qrb.rb",
+				"/tmp/pry20140114-20941-157f4b7.rb",
+				"/tmp/pry20140114-20941-n473dj.rb",
+				"/tmp/pry20140114-20941-wly8z0.rb",
+				"/tmp/pry20140114-20941-1n09mpo.rb",
+				"/home/edwin/Documents/Scripts/LunchScript/lib/suggester.rb",
+				"/home/edwin/Documents/Scripts/LunchScript/history.yml",
+				"/home/edwin/Scripts/Chore_Rotator/proto.rb",
+				"/home/edwin/Scripts/Chore_Rotator/README.md",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/chore_rotator.rb",
+				"/tmp/pry20131219-2195-18leab2.rb",
+				"/home/edwin/Scripts/Chore_Rotator/lib/chore_rotator.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/rotator_spec.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/retriever_spec.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/spec/spec_helper.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/rotator.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/lib/retriever.rb",
+				"/home/edwin/Documents/Scripts/Chore_Rotator/.rspec",
+				"/home/edwin/Documents/Scripts/Finance/finance.rb",
+				"/home/edwin/Downloads/bookmarks_12_10_13.html",
+				"/home/edwin/Documents/Scripts/Test/Pry/testing.rb",
+				"/home/edwin/Downloads/EOG/final_2.csv",
+				"/home/edwin/Downloads/EOG/final.csv",
+				"/home/edwin/Downloads/EOG/rb/file_preparer.rb",
+				"/home/edwin/Downloads/EOG/routing_num",
+				"/home/edwin/Downloads/EOG/raw.csv",
+				"/home/edwin/Downloads/EOG/import.csv",
+				"/home/edwin/Downloads/EOG/import2.csv",
+				"/home/edwin/Downloads/EOG/AEOG.csv",
+				"/home/edwin/Downloads/EOG/aeog.csv",
+				"/home/edwin/Downloads/raw.csv",
+				"/home/edwin/Documents/Scripts/WoL/wol.rb",
+				"/home/edwin/Downloads/Pubkey.txt",
+				"/home/edwin/Downloads/wol.py",
+				"/home/edwin/Downloads/README",
+				"/home/edwin/Documents/Scripts/Test/Readability/readability.rb",
+				"/home/edwin/Downloads/config_local.php",
+				"/home/edwin/Documents/Scripts/Encryption/.pem",
+				"/home/edwin/Documents/Scripts/Encryption/_pub.pem",
+				"/home/edwin/Documents/Scripts/DiceRoll/spec/roll_spec.rb",
+				"/home/edwin/Documents/Scripts/DiceRoll/Guardfile",
+				"/home/edwin/Documents/Scripts/DiceRoll/Gemfile",
+				"/home/edwin/Documents/Scripts/DiceRoll/spec/spec_helper.rb",
+				"/home/edwin/Documents/Scripts/DiceRoll/roll.rb",
+				"/home/edwin/Documents/Scripts/Cards/deck.rb",
+				"/home/edwin/Documents/Scripts/Cards/card.rb",
+				"/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox/directory.rb",
+				"/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox/extension.rb",
+				"/home/edwin/Documents/Scripts/SpamCheck/Gemfile",
+				"/home/edwin/Documents/Scripts/SpamCheck/spamcheck.rb",
+				"/home/edwin/Documents/Scripts/Procurement-v2/Gemfile",
+				"/home/edwin/Documents/Scripts/Procurement-v2/bcfl.rb",
+				"/home/edwin/Rails/Lunch_IT/app/helpers/pick_it_helper.rb"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"quiz",
+					"test",
+					"tests",
+					"Test",
+					"boo",
+					"#info",
+					"_POST",
+					" -",
+					"DROP",
+					"os",
+					"ctrl+k",
+					"currently_editing",
+					"input_field",
+					"match",
+					"User",
+					".page-content",
+					"download",
+					"quizzes",
+					"Home",
+					"kde",
+					"</option>",
+					"<option.+\">",
+					"^\\s+",
+					"arg",
+					"args",
+					"    @history_path = opts[:history_path]\n    @token        = opts[:token]        || raise_arg_error(:token)\n    @room         = opts[:room]         || raise_arg_error(:room)\n    @organization = opts[:organization] || raise_arg_error(:organization)",
+					"history_params",
+					"cuisine",
+					"list_time",
+					"list",
+					"archive_url",
+					"label",
+					"name",
+					"dir",
+					"https://api.trello.com/1",
+					"api_key",
+					"auth_token",
+					";",
+					"target",
+					"(\\d+,.+)(,)(.+,071)",
+					"71025797",
+					"\"",
+					"devonta",
+					"devonte",
+					"\\n",
+					"\"",
+					"\\n",
+					"(\\d+,[A-Z][a-z]+)(\\s\\w)",
+					"\\d+$",
+					"([A-Z][a-z]+)([A-Z][a-z]+)",
+					"CrystalSprings",
+					"([A-Z][a-z]+)([A-Z][a-z]+)",
+					"(^\\d+),(\\w+)([A-Z]),",
+					"(^\\d+,\\w+([A-Z]),)",
+					"^\\n",
+					",,,,,,,,,,,,",
+					"s_to_rot13",
+					"indexes",
+					"difference",
+					"to_rot13",
+					"rot13_to_s",
+					"rot13_index_to_s",
+					"puts",
+					"rt_results",
+					"i_results",
+					"results",
+					"puts",
+					"index_results",
+					"index_math_results",
+					"times",
+					"genres",
+					"^\\n",
+					"Not Active",
+					"^\\n",
+					"direct_deposits_",
+					"outbound_sales",
+					"federal_benefit_id",
+					"%b ",
+					"first_name",
+					"radio",
+					":radio",
+					"\\n",
+					"<.+>(.+)<.+>",
+					"<option value=\"\" selected=\"selected\">Select a language</option>",
+					"<.+>(.+)</option>",
+					"beneficiaries",
+					"f",
+					"beneficiary_data",
+					"beneficaries",
+					"builder",
+					"Customer's",
+					"First",
+					"    return [ Social Security Disability / Retirement / Death Benefits --Paid out on the 3rd of the month or Wednesdays\n Supplemental Security Income -- Paid out on the 1st of the month\n Veteran's Compensation and Pension--Paid out on the 1st of the month\n Veteran's Education MGIB--Paid out on the 1st of the month\n Veteran's Life Insurance--Paid out on the 1st of the month\n Veteran's Vocational Rehabilitation and Employment--Paid out on the 1st of the month\n Federal Civil Service Retirement/Annuity--Paid out on the 1st of the month\n Federal Civil Service Survivor/Annuity--Paid out on the 1st of the month\n Railroad Retirement/Annuity Benefits --Paid out on the 1st business day of the month\n Railroad Retirement Unemployment/Sickness--Paid out on the 1st business day of the month]\n",
+					"\\$",
+					"$",
+					"\\s+$",
+					"text_field",
+					"\\sMember\\s",
+					"targetprocess",
+					"progress",
+					"response",
+					"location",
+					"\\n",
+					"doc",
+					"return",
+					"data",
+					"Template",
+					"testext",
+					"testdir",
+					"options",
+					"opts",
+					"options",
+					"@",
+					"= ",
+					"notice",
+					"jj",
+					"data",
+					"fetch",
+					"\\sclass='.+'",
+					"class='.+'",
+					"^",
+					"/swf/",
+					"file",
+					"loghash",
+					"filter",
+					"-I",
+					"block",
+					"MASQUE"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"admin",
+					"admins",
+					"Admin",
+					"",
+					";\\n",
+					"\\1 \\3",
+					"071025797",
+					"",
+					",0\\n",
+					",071025797\\n",
+					",0\\n",
+					",\\n",
+					"\\1",
+					"071025797",
+					"\\1 \\2",
+					"\\1,\\2 \\3,",
+					"\\1 \\2",
+					"",
+					":radio_buttons",
+					", ",
+					"\\1",
+					"\\1\\n",
+					"f",
+					"",
+					"$",
+					"\\n",
+					"",
+					", ",
+					"PDF",
+					"extension",
+					"",
+					"http://192.168.7.38/swf/quizzes/",
+					"/swf/quizzes/",
+					"\\t",
+					"",
+					";\\n",
+					"News",
+					"news",
+					"_",
+					" ",
+					"",
+					"token_secret"
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/edwin/Rails/Insight_Nexus"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/edwin/Rails/Insight_Nexus/app/views/quizzes/index.html.haml",
+							"settings":
+							{
+								"buffer_size": 1207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										406,
+										406
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/edwin/Rails/Insight_Nexus/app/controllers/quizzes_controller.rb",
+							"settings":
+							{
+								"buffer_size": 1987,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										175,
+										175
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/edwin/Rails/Insight_Nexus/app/views/quizzes/_form.html.haml",
+							"settings":
+							{
+								"buffer_size": 277,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										277,
+										277
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/edwin/Rails/Insight_Nexus/app/controllers/categories_controller.rb",
+							"settings":
+							{
+								"buffer_size": 1969,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										708,
+										708
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/edwin/Rails/Insight_Nexus/app/helpers/admins_helper.rb",
+							"settings":
+							{
+								"buffer_size": 123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.git":
+			{
+				"height": 114.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,5040,1050",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"to_cat",
+						"db/migrate/20140212193657_add_quiz_id_to_category.rb"
+					],
+					[
+						"dbaddcat",
+						"db/migrate/20140212193621_add_category_id_to_quiz.rb"
+					],
+					[
+						"quizform",
+						"app/views/quizzes/_form.html.haml"
+					],
+					[
+						"routes",
+						"config/routes.rb"
+					],
+					[
+						"sideb",
+						"app/views/layouts/_sidebar.html.haml"
+					],
+					[
+						"to_ad",
+						"db/migrate/20140211175607_add_active_to_admins.rb"
+					],
+					[
+						"super",
+						"db/migrate/20140210201734_add_super_admin_to_admin.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"direc",
+						"app/views/directory/index.html.haml"
+					],
+					[
+						"newhirejs",
+						"app/assets/javascripts/newhire.js.coffee"
+					],
+					[
+						"newhi",
+						"app/controllers/newhire_controller.rb"
+					],
+					[
+						"index",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"appli",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"devise.",
+						"config/locales/devise.en.yml"
+					],
+					[
+						"admin",
+						"app/models/admin.rb"
+					],
+					[
+						"quiz",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"qui",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"quizz",
+						"app/controllers/quizzes_controller.rb"
+					],
+					[
+						"sid",
+						"app/views/layouts/_sidebar.html.haml"
+					],
+					[
+						"dir",
+						"app/views/directory/index.html.haml"
+					],
+					[
+						"home",
+						"app/views/home/index.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"pick",
+						"app/assets/javascripts/pick_it.js.coffee"
+					],
+					[
+						"custom",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"restind",
+						"app/views/restaurants/index.html.haml"
+					],
+					[
+						"res",
+						"app/models/restaurant.rb"
+					],
+					[
+						"genr",
+						"app/models/genre.rb"
+					],
+					[
+						"resta",
+						"app/controllers/restaurants_controller.rb"
+					],
+					[
+						"genre",
+						"app/controllers/genres_controller.rb"
+					],
+					[
+						"out",
+						"config/routes.rb"
+					],
+					[
+						"views",
+						"app/views/layouts/application.html.haml"
+					],
+					[
+						"layout",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"dat",
+						"config/database.yml"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"user.",
+						"app/models/user.rb"
+					],
+					[
+						"schema",
+						"db/schema.rb"
+					],
+					[
+						"add_defau",
+						"db/migrate/20131111203203_add_default_value_to_is_active.rb"
+					],
+					[
+						"user",
+						"app/controllers/user_management_controller.rb"
+					],
+					[
+						"disabled",
+						"db/migrate/20131111202919_rename_disabled_to_is_active_in_users.rb"
+					],
+					[
+						"nav",
+						"app/views/layouts/_navbar.html.haml"
+					],
+					[
+						"id_to",
+						"db/migrate/20131111183032_add_direct_deposit_id_to_users.rb"
+					],
+					[
+						"stats",
+						"app/controllers/stats_controller.rb"
+					],
+					[
+						"rename",
+						"db/migrate/20131111174033_rename_reporter_to_stats_in_user.rb"
+					],
+					[
+						"registration",
+						"app/views/users/registrations/edit.html.haml"
+					],
+					[
+						"_form",
+						"app/views/user_management/_form.html.haml"
+					],
+					[
+						"java",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"use",
+						"app/models/user.rb"
+					],
+					[
+						"users",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"add_cs",
+						"db/migrate/20131108194842_add_csr_email_to_direct_deposits_federal_benefits_outbound_sales_web_login_incentives.rb"
+					],
+					[
+						"removeben",
+						"db/migrate/20131108191716_remove_ben_first_name_ben_last_name_ben_ssn_from_federal_benefits.rb"
+					],
+					[
+						"remove",
+						"db/migrate/20131108191509_remove_csr_name_from_direct_deposits.rb"
+					],
+					[
+						"sc",
+						"db/schema.rb"
+					],
+					[
+						"devise",
+						"config/initializers/devise.rb"
+					],
+					[
+						"cust",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"devis",
+						"config/initializers/devise.rb"
+					],
+					[
+						"feder",
+						"app/models/federal_benefit.rb"
+					],
+					[
+						"application.",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"helper",
+						"app/helpers/federal_benefits_helper.rb"
+					],
+					[
+						"data",
+						"db/migrate/20131105202942_create_beneficiary_data.rb"
+					],
+					[
+						"sche",
+						"db/schema.rb"
+					],
+					[
+						"to_feder",
+						"db/migrate/20131105150343_add_beneficiary_id_to_federal_benefits.rb"
+					],
+					[
+						"create",
+						"db/migrate/20131105144915_create_beneficiaries.rb"
+					],
+					[
+						"add",
+						"db/migrate/20131105150008_add_beneficiaries_association_to_federal_benefits.rb"
+					],
+					[
+						"federal_benefits_has",
+						"db/migrate/20131105145916_federal_benefits_has_many_beneficiaries.rb"
+					],
+					[
+						"fed",
+						"app/models/federal_benefit.rb"
+					],
+					[
+						"addtell",
+						"db/migrate/20131031215157_add_teller_stuff_to_federal_benefit.rb"
+					],
+					[
+						"c",
+						"app/assets/stylesheets/custom.css.scss"
+					],
+					[
+						"add_pr",
+						"db/migrate/20131031195852_add_prn_to_direct_deposit.rb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"controlle",
+						"app/controllers/training_controller.rb"
+					],
+					[
+						"app/assets",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"lobbycof",
+						"app/assets/javascripts/lobby.js.coffee"
+					],
+					[
+						"chat",
+						"app/models/chatroom.rb"
+					],
+					[
+						"message",
+						"app/models/message.rb"
+					],
+					[
+						"lobb",
+						"app/assets/javascripts/lobby.js.coffee"
+					],
+					[
+						"messages.cof",
+						"app/assets/javascripts/messages.js.coffee"
+					],
+					[
+						"js.er",
+						"app/views/messages/create.js.erb"
+					],
+					[
+						"coffe",
+						"app/assets/javascripts/messages.js.coffee"
+					],
+					[
+						"new",
+						"app/views/lobby/new.html.haml"
+					],
+					[
+						"lobby",
+						"app/controllers/lobby_controller.rb"
+					],
+					[
+						"js.",
+						"app/views/messages/create.js.haml"
+					],
+					[
+						"coff",
+						"app/assets/javascripts/messages.js.coffee"
+					],
+					[
+						"lay",
+						"app/views/layouts/application.html.haml"
+					],
+					[
+						"messa",
+						"app/controllers/messages_controller.rb"
+					],
+					[
+						"ind",
+						"app/views/messages/index.html.haml"
+					],
+					[
+						"r",
+						"config/routes.rb"
+					],
+					[
+						"messages",
+						"app/controllers/messages_controller.rb"
+					],
+					[
+						"_for",
+						"app/views/messages/_form.html.haml"
+					],
+					[
+						"cofee",
+						"app/assets/javascripts/messages.js.coffee"
+					],
+					[
+						"inde",
+						"app/views/messages/index.html.haml"
+					],
+					[
+						"head",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"upda",
+						"app/views/comissions/update.html.haml"
+					],
+					[
+						"edit",
+						"app/views/comissions/edit.html.haml"
+					],
+					[
+						"comiss",
+						"app/controllers/comissions_controller.rb"
+					],
+					[
+						"controller",
+						"app/controllers/comission_controller.rb"
+					],
+					[
+						"header",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"content",
+						"app/views/gallery/_content.html.haml"
+					],
+					[
+						"envi",
+						"config/environment.rb"
+					],
+					[
+						"gal",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"pos",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"news",
+						"app/controllers/news_controller.rb"
+					],
+					[
+						"galle",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"gall",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"post",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"galler",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"con",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"contro",
+						"app/controllers/gallery_controller.rb"
+					],
+					[
+						"d",
+						"config/environments/development.rb"
+					],
+					[
+						"deve",
+						"config/environments/development.rb"
+					],
+					[
+						"develo",
+						"config/environments/development.rb"
+					],
+					[
+						"controll",
+						"app/controllers/restaurants_controller.rb"
+					],
+					[
+						"restaurantinde",
+						"app/views/restaurants/index.html.haml"
+					],
+					[
+						"btn",
+						"app/views/restaurants/_preferences_btn_group.html.haml"
+					],
+					[
+						"regist",
+						"app/views/devise/registrations/edit.html.haml"
+					],
+					[
+						"pref",
+						"app/controllers/preferences_controller.rb"
+					],
+					[
+						"js",
+						"app/assets/javascripts/restaurant.js.coffee"
+					],
+					[
+						"pre",
+						"app/controllers/preferences_controller.rb"
+					],
+					[
+						"restaurantcon",
+						"app/controllers/restaurants_controller.rb"
+					],
+					[
+						"btngr",
+						"app/views/restaurants/_preferences_btn_group.html.haml"
+					],
+					[
+						"restaurantham",
+						"app/views/restaurants/index.html.haml"
+					],
+					[
+						"_btn",
+						"app/views/restaurants/_preferences_btn_group.html.haml"
+					],
+					[
+						"restham",
+						"app/views/restaurants/index.html.haml"
+					],
+					[
+						"drop",
+						"db/migrate/20130126205845_drop_entries_table.rb"
+					],
+					[
+						"migra",
+						"db/migrate/20130108221300_add_name_to_user.rb"
+					],
+					[
+						"entry",
+						"app/models/entry.rb"
+					],
+					[
+						"cont",
+						"app/controllers/entries_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 280.0,
 			"status_bar_visible": true,
-			"window_id": 88,
+			"window_id": 111,
 			"workspace_name": ""
 		}
 	],

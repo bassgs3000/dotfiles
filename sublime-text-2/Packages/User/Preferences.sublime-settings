@@ -3,7 +3,8 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"SublimeREPL"
+		"SublimeREPL",
+		"SublimeCodeIntel"
 	],
 	"soda_classic_tabs": true,
 	"tabSize": 2,

@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/edwin/Documents/Scripts/Newhire/CST'
 let g:netrw_dirhist_2='/home/edwin/Documents/Scripts/Procurement-v2'
+let g:netrw_dirhist_3='/home/edwin/Rails/Lunch_IT'
+let g:netrw_dirhist_4='/home/edwin/Rails/plugins/PhoneDirectory/lib/switchvox'
+let g:netrw_dirhist_5='/home/edwin/Documents/Scripts/PhoneDirectory/lib/switchvox'

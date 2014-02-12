@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"Alignment",
 		"Base16 Color Schemes",
 		"CoffeeScript",
 		"CTags",
@@ -9,10 +10,12 @@
 		"Package Control",
 		"Ruby on Rails snippets",
 		"SCSS",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeREPL",
 		"Terminal",
 		"Theme - Soda",
-		"Twitter Bootstrap Snippets"
+		"Twitter Bootstrap Snippets",
+		"VAlign"
 	]
 }
