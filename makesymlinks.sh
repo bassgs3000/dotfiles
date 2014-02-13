@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="vimrc vim bashrc zshrc oh-my-zsh pryrc"    # list of files/folders to symlink in homedir
+files="vimrc vim bashrc zshrc oh-my-zsh pryrc tmux.conf"    # list of files/folders to symlink in homedir
 # Xdefaults xsession add these to files if you don't have a KDE setup.
 sublime="sublime-text-2"
 customtheme="zero-gallois.zsh-theme"
