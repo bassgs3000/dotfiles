@@ -36,9 +36,6 @@ done
 echo "Making sublime config files"
 ln -s $dir/$sublime ~/.config/
 
-echo "Symlinking Theme"
-ln -s $dir/$customtheme $dir/oh-my-zsh-themes/$customtheme
-
 
 function install_zsh {
 # Test to see if zshell is installed.  If it is:
@@ -67,3 +64,6 @@ fi
 }
 
 install_zsh
+
+echo "Symlinking Theme"
+ln -s $dir/$customtheme $dir/oh-my-zsh/themes/$customtheme
