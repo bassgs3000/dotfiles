@@ -11,9 +11,9 @@ git_custom_status() {
   fi
 }
 
-#RVM and git settings
-if [[ -s ~/.rbenv/bin/rbenv ]] ; then
-  RPS1='$(git_custom_status)%{$fg[red]%}[`rbenv version | cut -f 1 -d " "`]%{$reset_color%} $EPS1'
+#Pyenv and git settings
+if [[ -s /usr/local/bin/pyenv ]] ; then
+  RPS1='$(git_custom_status)%{$fg[yellow]%}[%{$fg[cyan]%}`pyenv version | cut -f 1 -d " "`%{$fg[yellow]%}]%{$reset_color%} $EPS1'
 fi
 
 PROMPT='%{$fg_bold[red]%}%B[%b%~% %{$fg_bold[red]%}%B]%b%(?.%{$fg_bold[cyan]%}.%{$fg[red]%})%B$%b '
