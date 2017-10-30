@@ -30,7 +30,7 @@ ZSH_THEME="zero-gallois"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git git-extras bundler rbenv)
+plugins=(git git-extras docker django pyenv)
 
 alias rr="rbenv rehash"
 alias config_printer="system-config-printer"
@@ -43,5 +43,7 @@ alias binit="bi && b package && echo 'vendor/ruby' >> .gitignore"
 alias xscreensaver-init="nohup xscreensaver -no-splash &"
 
 source $ZSH/oh-my-zsh.sh
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
+if command -v pyenv 1>/dev/null 2>&1; then
+  eval "$(pyenv init -)"
+fi
+eval "$(pyenv virtualenv-init -)"
